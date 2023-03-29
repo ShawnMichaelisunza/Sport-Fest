@@ -1,0 +1,706 @@
+.navbar-brand{
+    font-size: 23px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    margin: 0 0 0 10%;
+    font-family: 'Franklin Gothic Medium';
+}
+.navbar-brand p{
+    font-size: 11px;
+}
+.navbar{
+    opacity: 0.9;
+    background-color: #023627;
+    box-shadow: 1px 1px 10px black;
+
+}
+.navbar img{
+    margin: 0 0 0 30px;
+    width: 7%;
+}
+#nav-btn a{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium';
+}
+#nav-btn a:hover{
+    color: rgb(59, 211, 59);;
+}
+/* front page */
+.b-1{
+    margin-top: 60px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.logo-1{
+    width: 50%;
+    flex: 1;
+}
+.logo-1 img{
+    width: 90%;
+    margin: 20px 0 0 6%;
+}
+.logo-2{
+    padding-top: 30px;
+    display: flex;
+    width: 45%;
+    flex-wrap: wrap;
+    margin: 5px 0;
+    overflow: hidden;
+}
+.logo-2-1{
+    display: flex;
+}
+.logo-2-1 p{
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
+    margin: 0 0 0 9%;
+    overflow: hidden;
+}
+.logo-2-1 p:hover{
+    padding-top: 4px;
+}
+.logo-2 img{
+    width: 90%;
+    cursor: pointer;
+    border-radius: 50%;
+}
+/* Box logo */
+.box-1{
+    margin: 80px 0 0 0;
+    flex: 1;
+    background: linear-gradient(#ffffff,rgb(255, 0, 0));
+}
+.box-2 h3{
+    margin-bottom: 30px;
+    font-size: 50px;
+    color: green;
+    text-shadow: 1px 1px 3px black;
+}
+.box-2 p{
+    margin: 0;
+    color: green;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 1px 1px 3px black;
+}
+.box-2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    font-family: impact;
+    height: 50%;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px black;
+    padding: 0 0 10px 0;
+    font-family: 'Franklin Gothic Medium';
+}
+/* carousel */
+
+.b-2{
+    display: flex;
+    background: linear-gradient(rgb(255, 0, 0),rgb(255, 255, 0),rgb(0, 0, 255),#023627);
+    flex-direction: column;
+    width: 100%;
+}
+.cas-1{
+    flex: 1;
+    box-shadow: 1px 1px 10px black;
+    width: 43%;
+    margin: 30px 0 30px 20px;
+    height:40%;
+}
+.cas-2{
+    flex: 1;
+    margin: 24px 10px;
+    display: flex;
+    width: 50%;
+}
+.cas-2 img{
+    width: 45%;
+    margin: 5px;
+    box-shadow: 1px 1px 10px black;
+    height: 47%;
+    border-radius: 10px;
+    height: 20vh;
+}
+/* images */
+.img-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.f-img{
+    margin: 30px 0;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+}
+.f-img img{
+    box-shadow: 1px 1px 10px black;
+    width: 29%;
+    margin: 10px 0 0 2% ;
+    height: 70%;
+    border-radius: 10px;
+}
+.img-3{
+    box-shadow: 1px 1px 10px black;
+    margin: 10px 0 0 10%;
+    width: 80%;
+    height: 40%;
+    border-radius: 10px;
+}
+.footer{
+    border: none;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 30px 20px 0;
+    background-color: #023627;
+}
+.footer img{
+    float: right;
+    width: 4.5%;
+    margin:5px 5px;
+    border: none;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+}
+.footer-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* footer text */
+
+.foot-text{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+}
+.foot-text h6{
+    margin: 20px 0 0 30px;
+    font-size: 13px;
+}
+.foot-text p{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 11px;
+}
+
+/* Cards */
+.cards{
+    display: flex;
+    background: linear-gradient(to right,rgb(0, 0, 255),rgb(0, 255, 0),rgb(255, 255, 0),rgb(255, 0, 0));
+    justify-content: center;
+    align-items: center;
+}
+.teams{
+    display: flex;
+    width: 100%;
+    margin: 100px 0 0 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin: 10px;
+    border-radius: 5%;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium';
+}
+.card:hover{
+    box-shadow: 1px 1px 10px white;
+}
+.card a:hover{
+    box-shadow: 1px 1px 10px white;
+}
+.card img{
+    border: none;
+    border-radius: 50%;
+    width: 50%;
+    margin: 10px auto 0 auto;
+}
+
+/* JRS Team */
+
+/* Blue */
+.JRS-team{
+    background: url("image-palaro/logo9.png"),linear-gradient(rgba(255, 255, 255, 0.8),rgb(0, 0, 255, 0.9));
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.c-m{
+    text-shadow: 1px 1px 3px black;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+    font-size: 150%;
+    justify-content: center;
+}
+.c-m h1{
+    text-shadow: 1px 1px 3px black;
+        
+}
+.c-m img{
+    margin: 0 auto;
+     width: 20%;
+     border: none;
+     border-radius: 50%;
+}
+.c-m-2{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+.cm-2 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid white;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+.c-m-2{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+.cm-2 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid white;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+
+/* Yellow */
+.yellow-team{
+    background: url("image-palaro/logo5.png"),linear-gradient(rgba(0, 0, 0),rgb(255, 255, 0));
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    opacity: 0.9;
+}
+.c-m-1{
+    text-shadow: 1px 1px 2px cyan;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    font-size: 150%;
+    justify-content: center;
+}
+
+.c-m-1 h1{
+    text-shadow: 1px 1px 3px cyan;
+        
+}
+.c-m-1 img{
+    margin: 0 auto;
+     width: 20%;
+     border: none;
+     border-radius: 50%;
+}
+.c-m-2-1{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2-1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.cm-2-1 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid black;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+/* red team */
+.yellow-team{
+    background: url("image-palaro/logo5.png"),linear-gradient(rgba(0, 0, 0),rgb(255, 255, 0));
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.c-m-1{
+    text-shadow: 1px 1px 2px cyan;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    font-size: 150%;
+    justify-content: center;
+}
+
+.c-m-1 h1{
+    text-shadow: 1px 1px 3px cyan;
+        
+}
+.c-m-1 img{
+    margin: 0 auto;
+     width: 20%;
+     border: none;
+     border-radius: 50%;
+}
+.c-m-2-1{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2-1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.cm-2-1 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid black;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+/* Red Team */
+.red-team{
+    background: url("image-palaro/logo2.png"),linear-gradient(rgba(0, 0, 0, 0.8),rgb(255, 0, 0, 0.9));
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.c-m-3{
+    text-shadow: 1px 1px 3px black;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium';
+    color: yellow;
+    font-size: 150%;
+    justify-content: center;
+}
+.c-m-3 h1{
+    text-shadow: 1px 1px 3px black;
+        
+}
+.c-m-3 img{
+    margin: 0 auto;
+     width: 20%;
+     border: none;
+     border-radius: 50%;
+}
+.c-m-2{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2-3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+.cm-2-3 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid white;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+.c-m-2-2{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+.cm-2-2 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid white;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+
+/* green Team */
+
+.green-team{
+    background: url("image-palaro/logo3.png"),linear-gradient(rgba(0, 0, 0, 0.8),rgb(0, 255, 0, 0.9));
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.c-m-4{
+    text-shadow: 1px 1px 3px black;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+    font-size: 150%;
+    justify-content: center;
+}
+.c-m-4 h1{
+    text-shadow: 1px 1px 3px black;
+        
+}
+.c-m-4 img{
+    margin: 0 auto;
+     width: 20%;
+     border: none;
+     border-radius: 50%;
+}
+.c-m-2-4{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.c-m-2-4{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.cm-2-4{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.cm-2-4 li{
+    cursor: pointer;
+    margin-left: 3px;
+    border-bottom: 1px solid black;
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium';
+    list-style: none;
+}
+
+/* frameworks */
+
+@keyframes flicker {
+    0% {
+       opacity: 1;
+    }
+    50% {
+       opacity: 0.5;
+    }
+    100% {
+       opacity: 1;
+    }
+ }
+
+ .logo-2 img {
+    animation: flicker 2s ease-in-out infinite;
+ }
+ .logo-2-1 p {
+    animation: flicker 2s ease-in-out infinite;
+ }
+
+ /* media */
+ @media(max-width: 800px){
+    .navbar-brand{
+        font-size: 100%;
+    }
+    .navbar-brand p{
+        font-size: 60%;
+    }
+    .logo-1{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .logo-2{
+        flex: 100%;
+        max-width: 70%;
+    }
+    .logo-2 img{
+        margin: 0 5px;
+    }
+    .logo-2-1 p{
+        flex: 100%;
+        font-size: 150%;
+        margin: 0  0 0 10px;
+    }
+    .box-1{
+        margin: 50px 0 0 0 ;
+    }
+    .box-2 h3{
+        flex: 100%;
+        font-size: 25px;
+    }
+    .cas-1{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .cas-2{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .cas-2 img{
+        width: 80%;
+        margin: 5px 10%;
+    }
+    .footer-1{
+        padding: 0  0 0 6%;
+    }
+    .footer-1 img{
+        flex: 100%;
+        max-width: 7%;
+        max-height: 3vh;
+    }
+    .img-1 img{
+        flex: 100%;
+        max-width: 100%;
+    }
+    .foot-text p{
+        font-size: 50%;
+    }
+    .foot-text h6{
+        font-size: 50%;
+    }
+    .teams{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .JRS-team{
+        flex: 100%;
+        background-size: 100%;
+    }
+    .c-m-2{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .cm-2{
+        flex: 100%;
+        max-width: 50%;
+    }
+    .yellow-team{
+        flex: 100%;
+        background-size: 100%;
+    }
+    .c-m-2-1{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .cm-2-1{
+        flex: 100%;
+        max-width: 50%;
+    }
+    .c-m-1 img{
+        width: 50% ;
+    }
+    
+    .red-team{
+        flex: 100%;
+        background-size: 100%;
+    }
+    .c-m-2-2{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .cm-2-3{
+        flex: 100%;
+        max-width: 50%;
+    }
+    .c-m-3 img{
+        width: 80% ;
+    }
+
+    .green-team{
+        flex: 100%;
+        background-size: 100%;
+    }
+    .c-m-2-4{
+        flex: 100%;
+        max-width: 600px;
+    }
+    .cm-2-4{
+        flex: 100%;
+        max-width: 50%;
+    }
+    .c-m-4 img{
+        width: 80% ;
+    }
+ }
