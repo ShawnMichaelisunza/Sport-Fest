@@ -2,48 +2,607 @@
 <html lang="en">
   <?php include('navbar/header.php');?>
 <div class="sports container-fluid">
+  <div class="nav-1">
+    <div class="nav-1-1 container">
+    <h1 style="color: black;">SPORTS</h1>
+      <ul>
+        <div>
+        <li><a href="#basketball">BASKETBALL</a></li>
+        </div>
+        <div>
+        <li><a href="#volleyball">VOLLEYBALL</a></li>
+        </div>
+        <div>
+        <li><a href="#badminton">BADMINTON</a></li>
+        </div>
+        <div>
+        <li><a href="#bowling">BOWLING</a></li>
+        </div>
+        <div>
+        <li><a href="#swimming">SWIMMING</a></li>
+        </div>
+        <div>
+        <li><a href="#billiard">BILLIARD</a></li>
+        </div>
+        <div>
+        <li><a href="#chess">CHESS</a></li>
+        </div>
+        <div>
+        <li><a href="#darts">DARTS</a></li>
+        </div>
+        <div>
+        <li><a href="#zumba">ZUMBA</a></li>
+        </div>
+      </ul>
+    </div>
+  </div>
     <div class="bt-1 container">
-    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner">
-    <div class="carousel-item active">
-    <img src="image-palaro/sports/basketball/carousel2.png" class=" w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-    <img src="image-palaro/sports/basketball/carousel1.png" class=" w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-    <img src="image-palaro/sports/basketball/carousel3.png" class=" w-100" alt="...">
-    </div>
-     </div>
-     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-     </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-    </button>
-    </div>
-    <div>
-      <h1>BASKETBALL</h1>
-    </div>
-    </div>
     <div class="basketball">
-        
+    <div class="sc-2">
+      <img src="image-palaro/sports/basketball.png" alt="">
+      <img src="image-palaro/sports/basketball.png" alt="">
+      <h1 id="basketball" style="color: black;">BASKETBALL</h1>
+      <img src="image-palaro/sports/basketball.png" alt="">
+      <img src="image-palaro/sports/basketball.png" alt="">
     </div>
-<div class="sport">
-<img src="image-palaro/sports/basketball.png">
-<img src="image-palaro/sports/volleyball.png">
-<img src="image-palaro/sports/bowling.png">
-<img src="image-palaro/sports/darts.png">
-<img src="image-palaro/sports/billiard.png">
-<img src="image-palaro/sports/badminton.png">
-<img src="image-palaro/sports/chess.png">
-<img src="image-palaro/sports/swimming.png">
-<img src="image-palaro/sports/zumba.png">
-</div>
-</div>
-</div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
 
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b1-ball">
+          <li>01. Christian Wonchai</li>
+          <li>02. Pat Pasion</li>
+          <li>03. Jomar Operio</li>
+          <li>04. Mark Balamban</li>
+          <li>05. Laurens Salutiro</li>
+          <li>06. Leonardo Nery</li>
+          <li>07. Mark Guillermo</li>
+          <li>08. Mark Aldave</li>
+          <li>09. Benjie Colegado</li>
+          <li>10. Jerome Failanga</li>
+          <li>11. Louie Baluyan</li>
+          <li>12. July Arellano</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="volleyball">
+    <div class="sc-2">
+      <img src="image-palaro/sports/volleyball.png" alt="">
+      <img src="image-palaro/sports/volleyball.png" alt="">
+      <h1 id="volleyball" style="color: black;">VOLLEYBALL</h1>
+      <img src="image-palaro/sports/volleyball.png" alt="">
+      <img src="image-palaro/sports/volleyball.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b1-ball">
+          <li>01. Jerome Failanga</li>
+          <li>02. Alfred Aguilera</li>
+          <li>03. Jom Operio</li>
+          <li>04. Christian Wonchai</li>
+          <li>05. Gerie Cantillo</li>
+          <li>06. MC Cruz</li>
+          <li>07.  Pat Pasion</li>
+          <li>08. Kesia Bautista</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="badminton">
+    <div class="sc-2">
+      <img src="image-palaro/sports/badminton.png" alt="">
+      <img src="image-palaro/sports/badminton.png" alt="">
+      <h1 id="badminton" style="color: black;">BADMINTON</h1>
+      <img src="image-palaro/sports/badminton.png" alt="">
+      <img src="image-palaro/sports/badminton.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b1-ball">
+          <li>01. Joy Catherine Lopez</li>
+          <li>02. July Arellano</li>
+          <li>03. Alfred Aguilera</li>
+          <li>04. Wheng Balambao</li>
+          <li>05. Edgardo Lamadrid</li>
+          <li>06. Nelma Felipe</li>
+          <li>07. Kate Neyra</li>
+          <li>08. Abigail Bataycan</li>
+          <li>09. Ian Flores</li>
+          <li>10. Eva Yabut</li>
+          <li>11. Jonna Mae Tirao</li>
+          <li>12. Kesia Bautista</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="bowling">
+    <div class="sc-2">
+      <img src="image-palaro/sports/bowling.png" alt="">
+      <img src="image-palaro/sports/bowling.png" alt="">
+      <h1 id="bowling" style="color: black;">BOWLING</h1>
+      <img src="image-palaro/sports/bowling.png" alt="">
+      <img src="image-palaro/sports/bowling.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b1-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b1-ball">
+          <li>01.  Jonna Mae Tirao</li>
+          <li>02.  Pat Pasion Jr.</li>
+          <li>03.  Gerie Cantillo</li>
+          <li>04.  Coy Pasetes</li>
+          <li>05.  Nelma Felipe</li>
+          <li>06.  Aries Ongjoco</li>
+          <li>07.  Arni Sibal</li>
+          <li>08.  Belle Ygay</li>
+          <li>09.  Janica Enriquez</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+    
+    <br>
+    <div class="swimming">
+    <div class="sc-2">
+      <img src="image-palaro/sports/swimming.png" alt="">
+      <img src="image-palaro/sports/swimming.png" alt="">
+      <h1 id="swimming" style="color: black;">SWIMMING</h1>
+      <img src="image-palaro/sports/swimming.png" alt="">
+      <img src="image-palaro/sports/swimming.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b2-ball">
+          <li>01. Mandy Abaloyan</li>
+          <li>02. July Arellano</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="billiard">
+    <div class="sc-2">
+      <img src="image-palaro/sports/billiard.png" alt="">
+      <img src="image-palaro/sports/billiard.png" alt="">
+      <h1 id="billiard" style="color: black;">BILLIARD</h1>
+      <img src="image-palaro/sports/billiard.png" alt="">
+      <img src="image-palaro/sports/billiard.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b2-ball">
+          <li>01. Pat Pasion</li>
+          <li>02. Benjie Coligado</li>
+          <li>03. Joey Navarro</li>
+          <li>04. Allan Hernandez</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="chess">
+    <div class="sc-2">
+      <img src="image-palaro/sports/chess.png" alt="">
+      <img src="image-palaro/sports/chess.png" alt="">
+      <h1 id="chess" style="color: black;">CHESS</h1>
+      <img src="image-palaro/sports/chess.png" alt="">
+      <img src="image-palaro/sports/chess.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul class="b2-ball">
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b2-ball">
+          <li>01. Edgardo Lamadrid</li>
+          <li>02. Atty Ian</li>
+          <li>03. Joy Lopez</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="darts">
+    <div class="sc-2">
+      <img src="image-palaro/sports/darts.png" alt="">
+      <img src="image-palaro/sports/darts.png" alt="">
+      <h1 id="darts" style="color: black;">DARTS</h1>
+      <img src="image-palaro/sports/darts.png" alt="">
+      <img src="image-palaro/sports/darts.png" alt="">
+    </div>
+    <div class="logo-sports">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b2-ball">
+          <li>01. Gerie Cantillo</li>
+          <li>02. Pat Pasion</li>
+          <li>03. Jessica Regala</li>
+          <li>04. Stephanie Franco</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="zumba">
+    <div class="sc-2">
+      <img src="image-palaro/sports/zumba.png" alt="">
+      <img src="image-palaro/sports/zumba.png" alt="">
+      <h1 id="zumba" style="color: black;">ZUMBA</h1>
+      <img src="image-palaro/sports/zumba.png" alt="">
+      <img src="image-palaro/sports/zumba.png" alt="">
+    </div>
+    <div class="logo-sports" style="margin-bottom: 20%;">
+        <div class="lg-plrs">
+        <img src="image-palaro/logo2.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo3.png"  alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo5.png" alt="...">
+        <ul class="b2-ball">
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+          <li>FirstName LastName</li>
+        </ul>
+        </div>
+
+        <div class="lg-plrs">
+        <img src="image-palaro/logo9.png" alt="...">
+        <ul class="b2-ball">
+          <li>01. Mandy Abaloyan</li>
+          <li>02. Kate Neyra</li>
+          <li>03. Coy Pasetes</li>
+          <li>04. Moniza Cardinas</li>
+        </ul>
+        </div>
+    </div>
+    </div>
+</div>
+</div>
 <?php include('navbar/footer.php')?>
 </html>

@@ -33,7 +33,7 @@
           <a class="nav-link " href="sports.php">Sports</a>
         </li>
         <li class="nav-item" id="nav-btn">
-          <a class="nav-link" href="#">Schedule & Results</a>
+          <a class="nav-link" href="schedule_gitresult.php">Schedule & Results</a>
         </li>
       </ul>
     </div>

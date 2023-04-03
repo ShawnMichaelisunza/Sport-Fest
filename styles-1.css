@@ -2,33 +2,200 @@
     background: linear-gradient(rgb(255, 255, 0),rgb(255, 0, 0));
     background-position: center;
     width: 100%;
-}
-.sport{
-    background: url('image-palaro/sports/basketball.png');
+    padding-top: 11%;
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.sc-2{
+    display: flex;
+    width: 100%;
     justify-content: center;
 }
-.sport img{
-    width: 8%;
-    border: none;
-    background-color: wheat;
+.sc-2 img{
+    width: 23%;
     border-radius: 50%;
-    margin: 1% 1%;
-    cursor: pointer;
 }
-.sport img:hover{
-    margin-top: 5px;
-    background-color: rgb(240, 203, 135);
-    box-shadow: 1px 1px 10px black;
+.sc-2 h1{
+    margin: 13% 0 0 0;
+    font-size: 50px;
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px white;
 }
-.sport img:active{
-    background-color: rgb(240, 203, 135);
-    box-shadow: 1px 1px 10px black;
+
+/* SPORT Navbar */
+.nav-1{
+    display: flex;
 }
+.nav-1 h1{
+    font-family: 'impact';
+    font-size: 60px;
+    text-shadow: 1px 1px 2px white;
+}
+.nav-1-1 ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-1-1 ul li{
+    margin: 5px;
+    list-style-type: none;
+}
+.nav-1-1 ul li a{
+    text-shadow: 1px 1px 2px white;
+    color: black;
+    font-size: 20px;
+    font-family: 'impact';
+    text-decoration: none;
+}
+.nav-1-1 ul li a:hover{
+    color: green;
+    margin: 0 0 0 5px;
+}
+
+/* Sports and Players */
+.logo-sports{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.lg-plrs{
+    display: flex;
+    flex-wrap: wrap;
+    margin:  0 0 0 2px;
+    align-items: center;
+    flex-direction: column;
+    width: 24%;
+}
+.lg-plrs img{
+    margin: 0 0 0 10%;
+    width: 43%;
+}
+.lg-plrs li{
+    list-style: none;
+    font-family: 'Franklin Gothic Medium';
+}
+.b1-ball li{
+    color: black;
+    text-shadow: 1px 1px 2px white;
+    border-bottom: 1px solid black;
+}
+.b2-ball li{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    border-bottom: 1px solid black;
+}
+
+/* Schedule and Results */
+
+.s-r h1, h2{
+    font-family: 'impact';
+    color: black;
+    text-shadow: 1px 1px 2px white;
+}
+
+.sd-1{
+    background: linear-gradient(rgb(0, 0, 255),rgb(0, 255, 0),rgb(255, 255, 0),rgb(255, 0, 0));
+}
+.s-r{
+    display: flex;
+    padding-top: 100px;
+    flex-direction: column;
+}
+.s-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.s-center p{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px white;
+    color: black;
+}
+.s-center h5{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px white;
+    color: black;
+}
+.s-1-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.s-1-center h5{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px white; 
+    color: black;
+}
+
+.s-1-center p{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px white; 
+    color: black;
+}
+
 /* media */
 @media(max-width: 800px){
+    
     .sport img{
         flex: 100%;
         max-width: 100%;
+    }
+    .sc-2 h1{
+        flex: 100%;
+        max-width: 600px;
+        margin: 25% 0 0 0;
+        text-align: center;
+        font-size: 25px;
+    }
+    .sc-2 img{
+        width: 15%;
+        flex: 100%;
+    }
+    .lg-plrs{
+        flex: 100%;
+        max-width: 48%;
+        margin: 2px;
+    }
+    .lg-plrs img{
+        width: 50%
+    }
+    .b1-ball{
+        border-left: 1px solid black;
+    }
+    .b2-ball{
+        border-left: 1px solid white;
+    }
+    /* Schedule */
+    .s-r{
+        padding-top: 90px;
+    }
+    .s-r h1{
+        font-size: 20px;
+    }
+    .s-r h2{
+        font-size: 15px;
+    }
+    .s-center{
+        font-size: 9px;
+        flex: 100%;
+    }
+    .s-center{
+        width: 100%;
+        flex: 100%;
+    }
+    .s-center h5{
+        font-size: 9px;
+        flex: 100%;
+    }
+    .s-1-center{
+        font-size: 9px;
+        flex: 100%;
+    }
+
+    .s-1-center h5{
+        font-size: 9px;
+        flex: 100%;
     }
 }

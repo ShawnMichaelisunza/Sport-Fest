@@ -239,7 +239,7 @@
 
 /* Blue */
 .JRS-team{
-    background: url("image-palaro/logo9.png"),linear-gradient(rgba(255, 255, 255, 0.8),rgb(0, 0, 255, 0.9));
+    background: url("image-palaro/logo9.png"),linear-gradient(rgba(255, 255, 255),rgb(0, 0, 255));
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
@@ -247,6 +247,7 @@
     align-items: center;
     padding-top: 100px;
     padding-bottom: 50px;
+    opacity: 0.9;
 }
 .c-m{
     text-shadow: 1px 1px 3px black;
@@ -255,7 +256,7 @@
     width: 60%;
     background-color: transparent;
     font-family: 'Franklin Gothic Medium';
-    color: white;
+    color: yellow;
     font-size: 150%;
     justify-content: center;
 }
@@ -276,7 +277,6 @@
 }
 .cm-2{
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     border-left: 1px solid white;
     border-right: 1px solid white;
@@ -286,32 +286,10 @@
     margin-left: 3px;
     border-bottom: 1px solid white;
     background: transparent;
-    font-size: 13px;
+    font-size: 14px;
     font-family: 'Franklin Gothic Medium';
     list-style: none;
 }
-.c-m-2{
-    display: flex;
-    width: 100%;
-    flex-wrap: wrap;
-}
-.cm-2{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    border-left: 1px solid white;
-    border-right: 1px solid white;
-}
-.cm-2 li{
-    cursor: pointer;
-    margin-left: 3px;
-    border-bottom: 1px solid white;
-    background: transparent;
-    font-size: 13px;
-    font-family: 'Franklin Gothic Medium';
-    list-style: none;
-}
-
 /* Yellow */
 .yellow-team{
     background: url("image-palaro/logo5.png"),linear-gradient(rgba(0, 0, 0),rgb(255, 255, 0));
@@ -326,19 +304,19 @@
     opacity: 0.9;
 }
 .c-m-1{
-    text-shadow: 1px 1px 2px cyan;
+    text-shadow: 1px 1px 2px white;
     display: flex;
     flex-direction: column;
     width: 60%;
     background-color: transparent;
     font-family: 'Franklin Gothic Medium';
-    color: black;
+    color: blue;
     font-size: 150%;
     justify-content: center;
 }
 
 .c-m-1 h1{
-    text-shadow: 1px 1px 3px cyan;
+    text-shadow: 1px 1px 3px white;
         
 }
 .c-m-1 img{
@@ -354,72 +332,16 @@
 }
 .cm-2-1{
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     border-left: 1px solid black;
     border-right: 1px solid black;
 }
 .cm-2-1 li{
     cursor: pointer;
-    margin-left: 3px;
+    margin: 0 0 0 3px;
     border-bottom: 1px solid black;
     background: transparent;
-    font-size: 13px;
-    font-family: 'Franklin Gothic Medium';
-    list-style: none;
-}
-/* red team */
-.yellow-team{
-    background: url("image-palaro/logo5.png"),linear-gradient(rgba(0, 0, 0),rgb(255, 255, 0));
-    display: flex;
-    background-repeat: no-repeat;
-    background-position: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 100px;
-    padding-bottom: 50px;
-}
-.c-m-1{
-    text-shadow: 1px 1px 2px cyan;
-    display: flex;
-    flex-direction: column;
-    width: 60%;
-    background-color: transparent;
-    font-family: 'Franklin Gothic Medium';
-    color: black;
-    font-size: 150%;
-    justify-content: center;
-}
-
-.c-m-1 h1{
-    text-shadow: 1px 1px 3px cyan;
-        
-}
-.c-m-1 img{
-    margin: 0 auto;
-     width: 20%;
-     border: none;
-     border-radius: 50%;
-}
-.c-m-2-1{
-    display: flex;
-    width: 100%;
-    flex-wrap: wrap;
-}
-.cm-2-1{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-}
-.cm-2-1 li{
-    cursor: pointer;
-    margin-left: 3px;
-    border-bottom: 1px solid black;
-    background: transparent;
-    font-size: 13px;
+    font-size: 14px;
     font-family: 'Franklin Gothic Medium';
     list-style: none;
 }
@@ -433,6 +355,7 @@
     align-items: center;
     padding-top: 100px;
     padding-bottom: 50px;
+    opacity: 0.9;
 }
 .c-m-3{
     text-shadow: 1px 1px 3px black;
@@ -462,7 +385,6 @@
 }
 .cm-2-3{
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     border-left: 1px solid white;
     border-right: 1px solid white;
@@ -481,19 +403,12 @@
     width: 100%;
     flex-wrap: wrap;
 }
-.cm-2-2{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    border-left: 1px solid white;
-    border-right: 1px solid white;
-}
 .cm-2-2 li{
     cursor: pointer;
     margin-left: 3px;
     border-bottom: 1px solid white;
     background: transparent;
-    font-size: 13px;
+    font-size: 14px;
     font-family: 'Franklin Gothic Medium';
     list-style: none;
 }
@@ -509,20 +424,21 @@
     align-items: center;
     padding-top: 100px;
     padding-bottom: 50px;
+    opacity: 0.9;
 }
 .c-m-4{
-    text-shadow: 1px 1px 3px black;
+    text-shadow: 1px 1px 3px white;
     display: flex;
     flex-direction: column;
     width: 60%;
     background-color: transparent;
     font-family: 'Franklin Gothic Medium';
-    color: white;
+    color: blue;
     font-size: 150%;
     justify-content: center;
 }
 .c-m-4 h1{
-    text-shadow: 1px 1px 3px black;
+    text-shadow: 1px 1px 3px white;
         
 }
 .c-m-4 img{
@@ -543,7 +459,6 @@
 }
 .cm-2-4{
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -553,7 +468,7 @@
     margin-left: 3px;
     border-bottom: 1px solid black;
     background: transparent;
-    font-size: 13px;
+    font-size: 14px;
     font-family: 'Franklin Gothic Medium';
     list-style: none;
 }
