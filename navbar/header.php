@@ -24,7 +24,7 @@
           <a class="nav-link " aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item" id="nav-btn">
-          <a class="nav-link" href="#">News</a>
+          <a class="nav-link" href="news.php">Standings</a>
         </li>
         <li class="nav-item" id="nav-btn">
           <a class="nav-link" href="teams.php">Teams</a>
@@ -33,7 +33,7 @@
           <a class="nav-link " href="sports.php">Sports</a>
         </li>
         <li class="nav-item" id="nav-btn">
-          <a class="nav-link" href="schedule_gitresult.php">Schedule & Results</a>
+          <a class="nav-link" href="schedule_result.php">Schedule</a>
         </li>
       </ul>
     </div>

@@ -300,7 +300,7 @@
         </div>
     </div>
     <br>
-
+    <br>
 </div>
 </div>
 <?php include('navbar/footer.php')?>

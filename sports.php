@@ -49,54 +49,54 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Deric Molina</li>
+          <li>02. Elmer Serrano</li>
+          <li>03. Angelo Malicay</li>
+          <li>04. Jazreel Marfil</li>
+          <li>05. Jayson Corpuz</li>
+          <li>06. Arnel Tabing</li>
+          <li>07. Roger Avila</li>
+          <li>08. Jaybert Bonilla</li>
+          <li>09. Anton Balino</li>
+          <li>10. Shawn Michael Isunza</li>
+          <li>11. Darwin Labada</li>
+          <li>12. Jun Ligada</li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Ramil Sta Rita</li>
+          <li>02. Ryan Balero</li>
+          <li>03. Bobby Aguba</li>
+          <li>04. Mervin Flores</li>
+          <li>05. Bustillo </li>
+          <li>06. Vernie dela vega</li>
+          <li>07. Florence edward sibal</li>
+          <li>08. Jhaypee</li>
+          <li>09. Jhovin dela cruz</li>
+          <li>10. Christopher Souza</li>
+          <li>11. Chris Balde</li>
+          <li>12. Rodel Esguerra</li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Albert Perez</li>
+          <li>02. Price Noquera</li>
+          <li>03. Gino Llarves</li>
+          <li>04. Errol Sumile</li>
+          <li>05. Phepz Feranculio</li>
+          <li>06. Michael Divina</li>
+          <li>07. Pablito Herana</li>
+          <li>08. Jon Sinogbuhan</li>
+          <li>09. Ave Fernando</li>
+          <li>10. Adrianne Samaniego</li>
+          <li>11. Ronald Saspa</li>
+          <li>12. Merlino Cordova</li>
         </ul>
         </div>
 
