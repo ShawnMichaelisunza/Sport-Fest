@@ -8,10 +8,8 @@
     <img src="image-palaro/logo/bg-logo-2.png" alt="">
     <h1 style="text-align: center;">RED DRAGONS</h1>
     <br>
-    <h3>Captain : Deric Molina</h3>
-    <br>
-    <h3>Members</h3>
-    <br>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Captain : Ed Simeon</h3>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Members :</h3>
     <div class="c-m-2-2">
     <div class="card-t cm-2-3" style="width: 11rem;">
         <ul class="list-group ">
@@ -29,6 +27,7 @@
             <li class="">Menilva Albasin</li>
             <li class="">Jalyn Pangasian</li>
             <li class="">Jezreel Marfil</li>
+            <li class="">Avel Dualan</li>
         </ul>
     </div>
     <div class="card-t cm-2-3" style="width: 11rem;">
@@ -47,6 +46,7 @@
             <li class="">Eugenie Dupitas</li>
             <li class="">Jun Ramirez</li>
             <li class="">Roger Avila</li>
+            <li class="">Wieneve Vilando</li>
         </ul>
     </div>  <div class="card-t cm-2-3" style="width: 11rem;">
         <ul class="list-group">
@@ -62,8 +62,9 @@
             <li class="">Darwin Labadan</li>
             <li class="">Rogie Tarcenia</li>
             <li class="">Ryan Paglinawan</li>
-            <li class="">Wieneve Vilando</li>
             <li class="">Cesat Egido</li>
+            <li class="">Efraim Datuin</li>
+            <li class="">John Cesar Egido</li>
         </ul>
     </div>
     <div class="card-t cm-2-3" style="width: 11rem;">
@@ -79,6 +80,7 @@
             <li class="">Jayson Corpuz</li>
             <li class="">Christoper Saya-ang</li>
             <li class="">Karen Joy Ramos</li>
+            <li class="">Wieneve Vilando</li>
         </ul>
     </div>
 

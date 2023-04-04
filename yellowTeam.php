@@ -8,10 +8,8 @@
     <img src="image-palaro/logo/bg-logo1.png" alt="">
     <h1 style="text-align: center;">YELLOW JAGUARS</h1>
     <br>
-    <h3>Captain : Mercy Ngitngit</h3>
-    <br>
-    <h3>Members</h3>
-    <br>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Captain : Atty Michelle Salcedo</h3>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Members :</h3>
     <div class="c-m-2">
     <div class="card-t cm-2-1" style="width: 11rem;">
         <ul class="list-group ">
@@ -29,6 +27,7 @@
             <li class="">Darlyn Amplayo</li>
             <li class="">Grace Dades</li>
             <li class="">Famelah Janelle Torres</li>
+            <li class="">Nuquie P. Gadin</li>
         </ul>
     </div>
     <div class="card-t cm-2-1" style="width: 11rem;">
@@ -47,6 +46,7 @@
             <li class="">Rosalejos</li>
             <li class="">Kayroll  Almeria</li>
             <li class="">Ray Oliver</li>
+            <li class="">Ronald Saspa</li>
         </ul>
     </div>  <div class="card-t cm-2-1" style="width: 11rem;">
         <ul class="list-group">
@@ -64,6 +64,7 @@
             <li class="">Juancito Rapidooh</li>
             <li class="">Christel  Chua</li>
             <li class="">Jhun Paraan</li>
+            <li class="">Kaye Montemayor</li>
         </ul>
     </div>
     <div class="card-t cm-2-1" style="width: 11rem;">
@@ -78,7 +79,6 @@
             <li class="">Kobe Buenaflor</li>
             <li class="">Chito Valdez</li>
             <li class="">Felipe Feranculio</li>
-            <li class="">Kaye Montemayor</li>
         </ul>
     </div>
 

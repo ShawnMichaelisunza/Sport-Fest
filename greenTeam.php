@@ -8,10 +8,8 @@
     <img src="image-palaro/logo3.png" alt="">
     <h1 style="text-align: center;">GREEN EAGLES</h1>
     <br>
-    <h3>Captain : Norman Astor</h3>
-    <br>
-    <h3>Members</h3>
-    <br>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Captain : Ram Sta Rita</h3>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Members :</h3>
     <div class="c-m-2-4">
     <div class="card-t cm-2-4" style="width: 11rem;">
         <ul class="list-group ">
@@ -29,6 +27,7 @@
             <li class="">Donita Fernandez</li>
             <li class="">Roy Bayarcal</li>
             <li class="">Adrian Samaniego</li>
+            <li class="">Raymond Ronato</li>
         </ul>
     </div>
     <div class="card-t cm-2-4" style="width: 11rem;">
@@ -47,6 +46,7 @@
             <li class="">Rudy Malaca</li>
             <li class="">Ruby Montoya</li>
             <li class="">Rodel Esguerra</li>
+            <li class=""> Kennie Genon</li>
         </ul>
     </div>  <div class="card-t cm-2-4" style="width: 11rem;">
         <ul class="list-group">
@@ -64,6 +64,7 @@
             <li class="">Mam Olive</li>
             <li class="">Ryan Catoto</li>
             <li class="">Melchor Lavarias</li>
+            <li class="">Lourdgem Dimitui</li>
         </ul>
     </div>
     <div class="card-t cm-2-4" style="width: 11rem;">

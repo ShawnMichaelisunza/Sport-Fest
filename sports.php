@@ -4,7 +4,7 @@
 <div class="sports container-fluid">
   <div class="nav-1">
     <div class="nav-1-1 container">
-    <h1 style="color: black;">SPORTS</h1>
+    <h1 style="color: black;" id="sports">SPORTS</h1>
       <ul>
         <div>
         <li><a href="#basketball">BASKETBALL</a></li>
@@ -39,11 +39,7 @@
     <div class="bt-1 container">
     <div class="basketball">
     <div class="sc-2">
-      <img src="image-palaro/sports/basketball.png" alt="">
-      <img src="image-palaro/sports/basketball.png" alt="">
       <h1 id="basketball" style="color: black;">BASKETBALL</h1>
-      <img src="image-palaro/sports/basketball.png" alt="">
-      <img src="image-palaro/sports/basketball.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -118,16 +114,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="volleyball">
     <div class="sc-2">
-      <img src="image-palaro/sports/volleyball.png" alt="">
-      <img src="image-palaro/sports/volleyball.png" alt="">
       <h1 id="volleyball" style="color: black;">VOLLEYBALL</h1>
-      <img src="image-palaro/sports/volleyball.png" alt="">
-      <img src="image-palaro/sports/volleyball.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -194,16 +189,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="badminton">
     <div class="sc-2">
-      <img src="image-palaro/sports/badminton.png" alt="">
-      <img src="image-palaro/sports/badminton.png" alt="">
       <h1 id="badminton" style="color: black;">BADMINTON</h1>
-      <img src="image-palaro/sports/badminton.png" alt="">
-      <img src="image-palaro/sports/badminton.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -278,16 +272,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="bowling">
     <div class="sc-2">
-      <img src="image-palaro/sports/bowling.png" alt="">
-      <img src="image-palaro/sports/bowling.png" alt="">
       <h1 id="bowling" style="color: black;">BOWLING</h1>
-      <img src="image-palaro/sports/bowling.png" alt="">
-      <img src="image-palaro/sports/bowling.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -354,16 +347,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
     
     <br>
     <div class="swimming">
     <div class="sc-2">
-      <img src="image-palaro/sports/swimming.png" alt="">
-      <img src="image-palaro/sports/swimming.png" alt="">
       <h1 id="swimming" style="color: black;">SWIMMING</h1>
-      <img src="image-palaro/sports/swimming.png" alt="">
-      <img src="image-palaro/sports/swimming.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -398,16 +390,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="billiard">
     <div class="sc-2">
-      <img src="image-palaro/sports/billiard.png" alt="">
-      <img src="image-palaro/sports/billiard.png" alt="">
       <h1 id="billiard" style="color: black;">BILLIARD</h1>
-      <img src="image-palaro/sports/billiard.png" alt="">
-      <img src="image-palaro/sports/billiard.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -450,16 +441,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="chess">
     <div class="sc-2">
-      <img src="image-palaro/sports/chess.png" alt="">
-      <img src="image-palaro/sports/chess.png" alt="">
       <h1 id="chess" style="color: black;">CHESS</h1>
-      <img src="image-palaro/sports/chess.png" alt="">
-      <img src="image-palaro/sports/chess.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -498,16 +488,15 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="darts">
     <div class="sc-2">
-      <img src="image-palaro/sports/darts.png" alt="">
-      <img src="image-palaro/sports/darts.png" alt="">
       <h1 id="darts" style="color: black;">DARTS</h1>
-      <img src="image-palaro/sports/darts.png" alt="">
-      <img src="image-palaro/sports/darts.png" alt="">
     </div>
     <div class="logo-sports">
         <div class="lg-plrs">
@@ -550,18 +539,17 @@
         </ul>
         </div>
     </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
+    </div>
     </div>
 
     <br>
     <div class="zumba">
     <div class="sc-2">
-      <img src="image-palaro/sports/zumba.png" alt="">
-      <img src="image-palaro/sports/zumba.png" alt="">
       <h1 id="zumba" style="color: black;">ZUMBA</h1>
-      <img src="image-palaro/sports/zumba.png" alt="">
-      <img src="image-palaro/sports/zumba.png" alt="">
     </div>
-    <div class="logo-sports" style="margin-bottom: 20%;">
+    <div class="logo-sports">
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b2-ball">
@@ -601,6 +589,9 @@
           <li>04. Moniza Cardinas</li>
         </ul>
         </div>
+    </div>
+    <div class= "btn-s">
+    <a href="#sports">Back</a>
     </div>
     </div>
 </div>

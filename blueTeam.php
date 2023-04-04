@@ -8,10 +8,8 @@
     <img src="image-palaro/logo/bg-logo.png" alt="">
     <h1 style="text-align: center;">BLUE FALCONS</h1>
     <br>
-    <h3>Captain : Phen Zorwis</h3>
-    <br>
-    <h3>Members</h3>
-    <br>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Captain : Phen Zorwis</h3>
+    <h3 style="font-size: 20px; margin-bottom: 15px;">Members :</h3>
     <div class="c-m-2">
     <div class="card-t cm-2" style="width: 11rem;">
         <ul class="list-group ">
@@ -29,6 +27,7 @@
             <li class="">Moniza Cardinas</li>
             <li class="">Mark Balamban</li>
             <li class="">Jomar Operio</li>
+            <li class="">Redil Silvestre</li>
         </ul>
     </div>
     <div class="card-t cm-2" style="width: 11rem;">
@@ -47,6 +46,7 @@
             <li class="">Joy Lopez</li>
             <li class="">Alfred Aguillera</li>
             <li class="">Ralph Beronilla</li>
+            <li class="">Kristoffer talibsao</li>
         </ul>
     </div>  <div class="card-t cm-2" style="width: 11rem;">
         <ul class="list-group">
@@ -64,6 +64,7 @@
             <li class="">Kate Neyra</li>
             <li class="">Lovely Perez</li>
             <li class="">John Mihael Abulencia</li>
+            <li class="">Ruth Marquez</li>
         </ul>
     </div>
     <div class="card-t cm-2" style="width: 11rem;">
@@ -79,7 +80,6 @@
             <li class="">Myrah Romaguera</li>
             <li class="">Pia Marie Mania</li>
             <li class="">Jonna Mae Tirao</li>
-            <li class="">Ruth Marquez</li>
         </ul>
     </div>
 

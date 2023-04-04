@@ -8,7 +8,7 @@
     <img src="image-palaro/logo2.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h3 style="text-align: center;" style="text-shadow: 1px 1px 2px black;" >Red Dragons</h3>
-            <h5 class="card-text" style="text-shadow: 1px 1px 2px black;">Captain: Deric Molina</h5>
+            <h5 class="card-text" style="text-shadow: 1px 1px 2px black;">Captain: Ed Simeon</h5>
             <br>
         <a href="redTeam.php" class="btn btn-primary" style=" margin: 0 33%; width: 30%; background: linear-gradient(rgb(255, 0, 0), #000000); border: 1px solid black;">View</a>
         </div>
@@ -18,7 +18,7 @@
   <img src="image-palaro/logo3.png" class="card-img-top" alt="...">
     <div class="card-body">
         <h3 style="text-align: center;" style="text-shadow: 1px 1px 2px white;">Green Eagles</h3>
-        <h5 class="card-text" style="text-shadow: 1px 1px 2px white;">Captain: Norman Astor</h5>
+        <h5 class="card-text" style="text-shadow: 1px 1px 2px white;">Captain: Ram Sta Rita</h5>
         <br>
         <a href="greenTeam.php" class="btn btn-primary" style=" margin: 0 33%; width: 30%; background: linear-gradient(rgb(0, 255, 0), #000000); border: 1px solid black;">View</a>
     </div>
@@ -28,7 +28,7 @@
   <img src="image-palaro/logo5.png" class="card-img-top" alt="...">
     <div class="card-body">
         <h3 style="text-align: center;" style="text-shadow: 1px 1px 2px white;">Yellow Jaguars</h3>
-        <h5 class="card-text" style="text-shadow: 1px 1px 2px white;">Captain: Mercy Ngitngit</h5>
+        <h5 class="card-text" style="text-shadow: 1px 1px 2px white;">Captain: Michelle Salcedo</h5>
         <br>
         <a href="yellowTeam.php" class="btn btn-primary" style=" margin: 0 33%; width: 30%; background: linear-gradient(rgb(255, 255, 0), #000000); border: 1px solid black;">View</a>
     </div>

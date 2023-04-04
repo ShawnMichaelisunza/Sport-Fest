@@ -24,7 +24,7 @@
           <a class="nav-link " aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item" id="nav-btn">
-          <a class="nav-link" href="news.php">Standings</a>
+          <a class="nav-link" href="news.php">Games & Results</a>
         </li>
         <li class="nav-item" id="nav-btn">
           <a class="nav-link" href="teams.php">Teams</a>
