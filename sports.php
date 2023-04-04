@@ -293,48 +293,48 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Emy Oliva</li>
+          <li>02. Boron Simeon</li>
+          <li>03. Michelle Sabalo</li>
+          <li>04. Che Che Velo</li>
+          <li>05. Paul Maaba </li>
+          <li>06. JP Cruz</li>
+          <li>07. Kathleen Jacinto</li>
+          <li>08. Rolando Saberola</li>
+          <li>09. Rolando Saberola</li>
+          <li>10. Wien Villando</li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Roberto Aguba</li>
+          <li>02. Adora Hayag</li>
+          <li>03. Merly Manaloto</li>
+          <li>04. Rey Vergara </li>
+          <li>05. Norman Astor</li>
+          <li>06. Bustillo</li>
+          <li>07. Cristobal</li>
+          <li>08. Anna Domingo</li>
+          <li>09. Rudy Malaca</li>
+          <li>10. Marie Aquino </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Rosalejos</li>
+          <li>02. Mabel Montenegro</li>
+          <li>03. Jhun Paraan</li>
+          <li>04. Alex</li>
+          <li>05. Jelay Tanilon </li>
+          <li>06. Mercy Ngitngit</li>
+          <li>07. Tricia</li>
+          <li>08. Rey Vincent Lim</li>
+          <li>09. Keymil Urbano</li>
+          <li>10. Prince</li>
         </ul>
         </div>
 
@@ -350,6 +350,7 @@
           <li>07.  Arni Sibal</li>
           <li>08.  Belle Ygay</li>
           <li>09.  Janica Enriquez</li>
+          <li>10.  Jonna</li>
         </ul>
         </div>
     </div>

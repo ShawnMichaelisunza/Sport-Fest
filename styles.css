@@ -287,8 +287,9 @@
     border-bottom: 1px solid white;
     background: transparent;
     font-size: 14px;
-    font-family: 'Franklin Gothic Medium';
+    font-family: Arial, Helvetica, sans-serif;
     list-style: none;
+    font-weight: 700;
 }
 /* Yellow */
 .yellow-team{
@@ -301,7 +302,7 @@
     align-items: center;
     padding-top: 100px;
     padding-bottom: 50px;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 .c-m-1{
     text-shadow: 1px 1px 2px white;
@@ -342,8 +343,9 @@
     border-bottom: 1px solid black;
     background: transparent;
     font-size: 14px;
-    font-family: 'Franklin Gothic Medium';
+    font-family: Arial, Helvetica, sans-serif;
     list-style: none;
+    font-weight: 700;
 }
 /* Red Team */
 .red-team{
@@ -395,8 +397,9 @@
     border-bottom: 1px solid white;
     background: transparent;
     font-size: 13px;
-    font-family: 'Franklin Gothic Medium';
+    font-family: Arial, Helvetica, sans-serif;
     list-style: none;
+    font-weight: 700;
 }
 .c-m-2-2{
     display: flex;
@@ -427,18 +430,18 @@
     opacity: 0.9;
 }
 .c-m-4{
-    text-shadow: 1px 1px 3px white;
+    text-shadow: 1px 1px 3px black;
     display: flex;
     flex-direction: column;
     width: 60%;
     background-color: transparent;
     font-family: 'Franklin Gothic Medium';
-    color: blue;
+    color: yellow;
     font-size: 150%;
     justify-content: center;
 }
 .c-m-4 h1{
-    text-shadow: 1px 1px 3px white;
+    text-shadow: 1px 1px 3px black;
         
 }
 .c-m-4 img{
@@ -446,11 +449,6 @@
      width: 20%;
      border: none;
      border-radius: 50%;
-}
-.c-m-2-4{
-    display: flex;
-    width: 100%;
-    flex-wrap: wrap;
 }
 .c-m-2-4{
     display: flex;
@@ -469,8 +467,9 @@
     border-bottom: 1px solid black;
     background: transparent;
     font-size: 14px;
-    font-family: 'Franklin Gothic Medium';
+    font-family: Arial, Helvetica, sans-serif;
     list-style: none;
+    font-weight: 700;
 }
 
 /* frameworks */
