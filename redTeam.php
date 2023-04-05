@@ -83,7 +83,9 @@
             <li class="">Wieneve Vilando</li>
         </ul>
     </div>
-
+    <div class= "btn-t">
+    <a href="teams.php">Back</a>
+    </div>
     </div>
   </div>
 </div>

@@ -204,7 +204,7 @@
 /* Cards */
 .cards{
     display: flex;
-    background: linear-gradient(to right, rgb(255, 0, 0),rgb(255, 255, 0),rgb(0, 0, 255),#023627);
+    background: linear-gradient(rgb(255, 255, 0),rgb(255, 0, 0));
     justify-content: center;
     align-items: center;
 }
@@ -233,6 +233,22 @@
     border-radius: 50%;
     width: 50%;
     margin: 10px auto 0 auto;
+}
+.btn-t{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    margin-top: 30px;
+}
+.btn-t a{
+    text-decoration: none;
+    color: black;
+    text-shadow: 1px 1px 3px white;
+    font-family: 'impact';
+}
+.btn-t a:hover{
+    color: green;
+    text-shadow: 1px 1px 2px blue;
 }
 
 /* JRS Team */
@@ -545,6 +561,10 @@
     .teams{
         flex: 100%;
         max-width: 600px;
+    }
+    .btn-t a{
+        margin: 30px 0 10px 0;
+        font-size: 15px;
     }
     .JRS-team{
         flex: 100%;

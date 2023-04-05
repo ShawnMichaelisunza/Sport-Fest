@@ -100,14 +100,12 @@
     height: 33px;
     font-family: 'Impact';
     text-shadow: 1px 1px 2px white;
-    background-color: green;
     color: black;
     text-decoration: none;
     border-radius: 10px;
 }
 .btn-s a:hover{
-    box-shadow: 1px 1px 10px black;
-    background-color: white;
+    color: green;
 }
 /* Schedule and Results */
 
@@ -118,7 +116,7 @@
 }
 
 .sd-1{
-    background: linear-gradient(rgb(0, 0, 255),rgb(0, 255, 0),rgb(255, 255, 0),rgb(255, 0, 0));
+    background: linear-gradient(rgb(255, 255, 0),rgb(255, 0, 0));
 }
 .s-r{
     display: flex;
@@ -147,6 +145,44 @@
     align-items: center;
     border-bottom: 2px solid black;
 }
+
+
+
+.s-center-2 p{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px blue;
+    color: white;
+}
+.s-center-2 h5{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px blue;
+    color: white;
+}
+.s-center-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid white;
+}
+.s-1-center-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid white;
+}
+.s-1-center-2 h5{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px blue; 
+    color: white;
+}
+.s-1-center-2 p{
+    font-family: 'impact';
+    text-shadow: 1px 1px 2px blue; 
+    color: white;
+}
+
+
+
 .s-1-center h5{
     font-family: 'impact';
     text-shadow: 1px 1px 2px white; 
@@ -160,7 +196,7 @@
 }
 /* News */
 .news{
-        background: linear-gradient(rgb(255, 0, 0),rgb(255, 255, 0),rgb(0, 0, 255),#023627);
+        background: linear-gradient(rgb(255, 255, 0),rgb(255, 0, 0));
 }
 .news-1{
     display: flex;
@@ -287,6 +323,31 @@
         font-size: 10px;
         flex: 100%;
     }
+
+
+    .s-center-2{
+        font-size: 10px;
+        flex: 100%;
+    }
+    .s-center-2{
+        width: 100%;
+        flex: 100%;
+    }
+    .s-center-2 h5{
+        font-size: 10px;
+        flex: 100%;
+    }
+    .s-1-center-2{
+        font-size: 10px;
+        flex: 100%;
+    }
+
+    .s-1-center-2 h5{
+        font-size: 10px;
+        flex: 100%;
+    }
+
+    
 
     /* News */
 

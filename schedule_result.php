@@ -116,7 +116,7 @@
         </div>
         <div>
             <p>Semi-Finals</p>
-            <p>Initail Game</p>
+            <p>Initial Game</p>
             <p>Semi-Finals</p>
         </div>
         <div>
@@ -189,7 +189,7 @@
         </div>
     </div>
     <br>
-        <div class="s-center">
+        <div class="s-center-2">
         <div>
         <h5>May 19 (Friday)</h5>
         </div>
@@ -202,7 +202,7 @@
     </div>
     <br>
 
-    <div class="s-center">
+    <div class="s-center-2">
         <div>
         <h5>Jume 2 (Friday)</h5>
         </div>
@@ -215,7 +215,7 @@
     </div>
     <br>
 
-    <div class="s-1-center">
+    <div class="s-1-center-2">
         <div>
         <h5> June 8 (Friday)</h5>
         </div>
@@ -242,7 +242,7 @@
     </div>
     <br>
 
-    <div class="s-center">
+    <div class="s-center-2">
         <div>
         <h5>June 9 (Friday)</h5>
         </div>
@@ -255,7 +255,7 @@
     </div>
     <br>
 
-    <div class="s-1-center">
+    <div class="s-1-center-2">
         <div>
         <h5 style="margin: 0 0 0 10px;">TBA</h5>
         </div>
@@ -282,12 +282,12 @@
     <br>
 
 
-    <div class="s-1-center">
+    <div class="s-1-center-2">
         <div>
         <h5> June 16 (Friday)</h5>
         </div>
         <div>
-            <p>Culmination Food</p>
+            <p>Culmination</p>
         </div>
         <div>
         <p></p>

@@ -135,7 +135,8 @@
         <br>
         <br>
     </div>
-    </div>
+</div>
+</div>
 
 <?php include('navbar/footer.php')?>
 </html>

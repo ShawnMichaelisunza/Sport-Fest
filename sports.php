@@ -115,7 +115,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -190,7 +190,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -273,7 +273,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -343,12 +343,12 @@
           <li>07.  Arni Sibal</li>
           <li>08.  Belle Ygay</li>
           <li>09.  Janica Enriquez</li>
-          <li>10.  Jonna</li>
+          <li>FirstName LastName</li>
         </ul>
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
     
@@ -391,7 +391,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -446,7 +446,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -488,12 +488,12 @@
         <ul class="b2-ball">
           <li>01. Edgardo Lamadrid</li>
           <li>02. Atty Ian</li>
-          <li>03. Joy Lopez</li>
+          <li>FirstName LastName</li>
         </ul>
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -548,7 +548,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 
@@ -599,7 +599,7 @@
         </div>
     </div>
     <div class= "btn-s">
-    <a href="#sports">Back</a>
+    <a href="#sports">Top</a>
     </div>
     </div>
 </div>
