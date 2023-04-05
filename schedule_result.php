@@ -29,7 +29,7 @@
 
     <div class="s-1-center">
         <div class="s-h-1">
-        <h5>April 14 (Friday)</h5>
+        <h5 style="text-shadow: 1px 1px 2px white;">April 14 (Friday)</h5>
         </div>
         <div>
         <p style="font-size: 20x;">Opening</p>
@@ -112,7 +112,7 @@
 
     <div class="s-1-center">
         <div>
-        <h5> May 19 (Friday)</h5>
+        <h5 style="text-shadow: 1px 1px 2px white;"> May 19 (Friday)</h5>
         </div>
         <div>
             <p>Semi-Finals</p>
@@ -165,7 +165,7 @@
 
     <div class="s-1-center">
         <div>
-        <h5> May 25 (Thursday)</h5>
+        <h5 style="text-shadow: 1px 1px 2px white;"> May 25 (Thursday)</h5>
         </div>
         <div>
             <p>Finals</p>
@@ -188,18 +188,7 @@
             <p>Celebrity</p>
         </div>
     </div>
-    <br>
-        <div class="s-center-2">
-        <div>
-        <h5>May 19 (Friday)</h5>
-        </div>
-        <div>
-        <p>Zumba</p>
-        </div>
-        <div>
-        <p>5th Floor CMI</p>
-        </div>
-    </div>
+    
     <br>
 
     <div class="s-center-2">

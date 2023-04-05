@@ -150,12 +150,12 @@
 
 .s-center-2 p{
     font-family: 'impact';
-    text-shadow: 1px 1px 2px blue;
+    text-shadow: 1px 1px 2px black;
     color: white;
 }
 .s-center-2 h5{
     font-family: 'impact';
-    text-shadow: 1px 1px 2px blue;
+    text-shadow: 1px 1px 2px black;
     color: white;
 }
 .s-center-2{
@@ -172,12 +172,12 @@
 }
 .s-1-center-2 h5{
     font-family: 'impact';
-    text-shadow: 1px 1px 2px blue; 
+    text-shadow: 1px 1px 2px black; 
     color: white;
 }
 .s-1-center-2 p{
     font-family: 'impact';
-    text-shadow: 1px 1px 2px blue; 
+    text-shadow: 1px 1px 2px black; 
     color: white;
 }
 
@@ -185,7 +185,7 @@
 
 .s-1-center h5{
     font-family: 'impact';
-    text-shadow: 1px 1px 2px white; 
+    text-shadow: 1px 1px 2px black; 
     color: black;
 }
 
@@ -219,7 +219,7 @@
 
 .score-1{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: white;
     padding: 5px 5%;
     align-items: center;

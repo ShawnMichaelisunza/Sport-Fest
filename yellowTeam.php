@@ -41,7 +41,7 @@
             <li class="">Keymil Urbanoe</li>
             <li class="">Rachel Lorenzo</li>
             <li class="">Beran</li>
-            <li class="">Chrstine Jy David</li>
+            <li class="">Christine Joy David</li>
             <li class="">Jose Simeon</li>
             <li class="">Rosalejos</li>
             <li class="">Kayroll  Almeria</li>
