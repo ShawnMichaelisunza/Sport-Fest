@@ -44,7 +44,7 @@
         <p>Badminton</p>
         </div>
         <div>
-        <p>2pm-7pm</p>
+        <p>2pm - 7pm</p>
         <p>4pm - 7pm</p>
         <p>4pm - 7pm</p>
         <p>4pm - 7pm</p>
