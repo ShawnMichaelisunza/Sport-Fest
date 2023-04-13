@@ -13,6 +13,7 @@
     <div class="c-m-2-2">
     <div class="card-t cm-2-3" style="width: 11rem;">
         <ul class="list-group ">
+            <li class="">Deric Molina</li>
             <li class="">Cheryl Velo</li>
             <li class="">Elmer Serrano</li>
             <li class="">Mayeth Taylan</li>
@@ -81,6 +82,8 @@
             <li class="">Christoper Saya-ang</li>
             <li class="">Karen Joy Ramos</li>
             <li class="">Wieneve Vilando</li>
+            <li class="">Anton Balino</li>
+            <li class="">Arman Paz</li>
         </ul>
     </div>
     <div class= "btn-t">

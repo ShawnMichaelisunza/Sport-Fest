@@ -80,6 +80,8 @@
             <li class="">Myrah Romaguera</li>
             <li class="">Pia Marie Mania</li>
             <li class="">Jonna Mae Tirao</li>
+            <li class="">Rayvan Malquisto</li>
+            <li class="">Justin Bio</li>
         </ul>
     </div>
     <div class= "btn-t">

@@ -6,6 +6,7 @@
      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
      <link rel="stylesheet" href="styles.css">
      <link rel="stylesheet" href="styles-1.css">
+     <link rel="stylesheet" href="styles-2.css">
     <title>SportFest</title>
 </head>
 <body>
@@ -19,9 +20,12 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav offset-md-6">
+      <ul class="navbar-nav offset-md-5">
         <li class="nav-item" id="nav-btn">
           <a class="nav-link " aria-current="page" href="index.php">Home</a>
+        </li>
+        <li class="nav-item" id="nav-btn">
+          <a class="nav-link" href="committee.php">Committee</a>
         </li>
         <li class="nav-item" id="nav-btn">
           <a class="nav-link" href="news.php">Games & Results</a>

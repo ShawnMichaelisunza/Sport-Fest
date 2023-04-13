@@ -128,48 +128,49 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Jonas Telebrico</li>
+          <li>02. Gino Llarves</li>
+          <li>03. Alex Morales</li>
+          <li>04. Phepz Feranculio  </li>
+          <li>05. Rommel </li>
+          <li>06. Albert Perez</li>
+          <li>07. Jon Sinogbuhan</li>
+          <li>08. Pablito Herana</li>
+          <li>09. Ronald Saspa</li>
+          <li> - </li>
         </ul>
         </div>
 
@@ -182,10 +183,10 @@
           <li>04. Christian Wonchai</li>
           <li>05. Gerie Cantillo</li>
           <li>06. MC Cruz</li>
-          <li>07.  Pat Pasion</li>
+          <li>07. Pat Pasion</li>
           <li>08. Kesia Bautista</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
     </div>
@@ -203,54 +204,54 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. John Paul Cruz </li>
+          <li>02. Darwin Labadan </li>
+          <li>03. Cheryl Velo </li>
+          <li>04. Jalyn Pangasian</li>
+          <li>05. Elmer Serrano </li>
+          <li>06. Amira Bongato</li>
+          <li>07. Paul Maaba </li>
+          <li>08. Boron Simeon </li>
+          <li>09. Kathleen Jacinto </li>
+          <li>10. Judith Sayong </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Tyron Mateo </li>
+          <li>02. Gene de Jesus </li>
+          <li>03. Anna Domingo </li>
+          <li>04. Melody Bascao </li>
+          <li>05. Janice Repayo </li>
+          <li>06. Mark Guilleno </li>
+          <li>07. Ryan Belaro </li>
+          <li>08. Kathlyn Dulfo </li>
+          <li>09. Donita Fernandez </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b1-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Mercy Ngitngit </li>
+          <li>02. Jonas Telebrico </li>
+          <li>03. Darlyn Amplayo </li>
+          <li>04. Cath Unciano</li>
+          <li>05. CJ David</li>
+          <li>06. Albert Zarogaza</li>
+          <li>07. Atty Mitch </li>
+          <li>08. Merlino Cordova</li>
+          <li>09. Arjay Quirante</li>
+          <li>10. Tricia Tabudlong</li>
+          <li>11. Keymil Urbanoe</li>
+          <li>12. Prince Noquera</li>
         </ul>
         </div>
 
@@ -334,16 +335,16 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo9.png" alt="...">
         <ul class="b1-ball">
-          <li>01.  Jonna Mae Tirao</li>
-          <li>02.  Pat Pasion Jr.</li>
-          <li>03.  Gerie Cantillo</li>
-          <li>04.  Coy Pasetes</li>
-          <li>05.  Nelma Felipe</li>
-          <li>06.  Aries Ongjoco</li>
-          <li>07.  Arni Sibal</li>
-          <li>08.  Belle Ygay</li>
-          <li>09.  Janica Enriquez</li>
-          <li>FirstName LastName</li>
+          <li>01. Jonna Mae Tirao</li>
+          <li>02. Pat Pasion Jr.</li>
+          <li>03. Gerie Cantillo</li>
+          <li>04. Coy Pasetes</li>
+          <li>05. Nelma Felipe</li>
+          <li>06. Aries Ongjoco</li>
+          <li>07. Arni Sibal</li>
+          <li>08. Belle Ygay</li>
+          <li>09. Janica Enriquez</li>
+          <li>10. Beth Gregorio</li>
         </ul>
         </div>
     </div>
@@ -361,24 +362,26 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Gino Llarves</li>
+          <li>02. Alex Morales</li>
+          <li>03. Jhun Paraan</li>
         </ul>
         </div>
 
@@ -407,8 +410,8 @@
           <li>01. Christopher Saya-Ang</li>
           <li>02. Darwin Labadan</li>
           <li>03. JezreelMarfil</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>04. Jewel Gregorio</li>
+          <li>05. Michelle/Jailyn</li>
         </ul>
         </div>
 
@@ -417,9 +420,9 @@
         <ul class="b2-ball">
           <li>01. Jhovin</li>
           <li>02. Cris Balde</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
@@ -441,7 +444,7 @@
           <li>02. Benjie Coligado</li>
           <li>03. Joey Navarro</li>
           <li>04. Allan Hernandez</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
         </ul>
         </div>
     </div>
@@ -459,27 +462,29 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul class="b2-ball">
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Jose Simeon</li>
+          <li>02. Junel Garcia</li>
+          <li>03. Ronald Saspa</li>
+          <li>04. Nuki Gadin </li>
+          <li>05. Kayroll Almeria</li>
         </ul>
         </div>
 
@@ -488,7 +493,7 @@
         <ul class="b2-ball">
           <li>01. Edgardo Lamadrid</li>
           <li>02. Atty Ian</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
         </ul>
         </div>
     </div>
@@ -510,7 +515,12 @@
           <li>02. Boron Simeon</li>
           <li>03. Ryan Paglinawan</li>
           <li>04. Rogie Tarcena</li>
-          <li>FirstName LastName</li>
+          <li>05. Emy Oliva</li>
+          <li>06. Judith Sayong</li>
+          <li>07. Eugine Dupitas</li>
+          <li>08. Michelle Sabalo</li>
+          <li>09. Amira Luna Bongato</li>
+          <li>10. Wien Vilando</li>
         </ul>
         </div>
 
@@ -521,7 +531,10 @@
           <li>02. Rudy Malaca</li>
           <li>03. Bong</li>
           <li>04. Melchor Lavarias</li>
-          <li>05. Jhovin</li>
+          <li>05. Janette Istomata</li>
+          <li>06. Chen Alafriz</li>
+          <li>07. Anna Domingo</li>
+          <li>08. Jhovin</li>
         </ul>
         </div>
 
@@ -533,6 +546,10 @@
           <li>03. Jose Mangiliman</li>
           <li>04. Beran</li>
           <li>05. Albert Perez</li>
+          <li>06. Mercy</li>
+          <li>07. Relaine Mendenilla</li>
+          <li>08. Sandra Medina</li>
+          <li>09. kayroll almeria</li>
         </ul>
         </div>
 
@@ -543,7 +560,12 @@
           <li>02. Pat Pasion</li>
           <li>03. Jessica Regala</li>
           <li>04. Stephanie Franco</li>
-          <li>FirstName LastName</li>
+          <li>05. Gerie Cantillo</li>
+          <li>06. Jessica Regala</li>
+          <li>07. Arni Sibal</li>
+          <li>08. Stephanie Franco</li>
+          <li>09. July Arellano</li>
+
         </ul>
         </div>
     </div>
@@ -561,30 +583,30 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b2-ball">
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
-          <li>FirstName LastName</li>
+          <li>01. Jessa Nuyda</li>
+          <li>02. Mhabel Montenegro</li>
+          <li>03. Grace Dades</li>
+          <li> - </li>
         </ul>
         </div>
 
