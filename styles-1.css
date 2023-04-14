@@ -258,6 +258,15 @@
     color: green;
 }
 
+.results-img{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.results-img img{
+    width: 100px;
+}
+
 
 /* Frameworks */
 
@@ -404,5 +413,7 @@
         font-size: 15px;
     }
 
-
+    .results-img img{
+        width: 50px;
+    }
 }
