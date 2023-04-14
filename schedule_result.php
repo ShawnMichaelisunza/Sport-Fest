@@ -5,7 +5,6 @@
 <div class="sd-1 container-fluid">
 
 <div class="s-r container">
-    <h1>PALARONG JRS 2023</h1>
     <br>
     <h1 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">SCHEDULE</h1>
     <br>
@@ -151,19 +150,6 @@
     </div>
     <br>
 
-    <div class="s-center">
-        <div style="width: 20%;">
-        <h5>May 26 (Friday)</h5>
-        </div>
-        <div style="width: 15%;">
-        <p>Zumba</p>
-        </div>
-        <div style="width: 10%;">
-        <p>5th Floor CMI</p>
-        </div>
-    </div>
-    <br>
-
     <div class="s-1-center">
         <div style="width: 15%;">
         <h5 style="text-shadow: 1px 1px 2px white;"> May 25 (Thursday)</h5>
@@ -190,6 +176,19 @@
         </div>
     </div>
     
+    <br>
+
+    <div class="s-center">
+        <div style="width: 20%;">
+        <h5>May 26 (Friday)</h5>
+        </div>
+        <div style="width: 15%;">
+        <p>Zumba</p>
+        </div>
+        <div style="width: 10%;">
+        <p>5th Floor CMI</p>
+        </div>
+    </div>
     <br>
 
     <div class="s-center-2">

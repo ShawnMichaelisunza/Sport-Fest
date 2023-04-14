@@ -418,7 +418,7 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li>01. Jhovin</li>
+          <li>01. Jhovin Dela Cruz</li>
           <li>02. Cris Balde</li>
           <li> - </li>
           <li> - </li>
@@ -462,29 +462,30 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b2-ball">
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li>01. Gilbert Soriano </li>
+          <li>02. Paul Maaba </li>
+          <li>03. Jewelyn Gregorio </li>
+          <li>04. Shawn Michael Isunza </li>
         </ul>
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li>01. Jhovin Dela Cruz </li>
+          <li>02. Ronald Saspa </li>
+          <li>03. Francine Gallarte </li>
+          <li>04. Bien Orpeza </li>
         </ul class="b2-ball">
         </div>
 
         <div class="lg-plrs">
         <img src="image-palaro/logo5.png" alt="...">
         <ul class="b2-ball">
-          <li>01. Jose Simeon</li>
+          <li>01. Jose Mangiliman</li>
           <li>02. Junel Garcia</li>
-          <li>03. Ronald Saspa</li>
-          <li>04. Nuki Gadin </li>
-          <li>05. Kayroll Almeria</li>
+          <li>03. Nuki Gadin </li>
+          <li>04. Kayroll Almeria</li>
         </ul>
         </div>
 
@@ -492,7 +493,8 @@
         <img src="image-palaro/logo9.png" alt="...">
         <ul class="b2-ball">
           <li>01. Edgardo Lamadrid</li>
-          <li>02. Atty Ian</li>
+          <li>02. Atty Ian Flores</li>
+          <li>03. Pat  Pasion</li>
           <li> - </li>
         </ul>
         </div>

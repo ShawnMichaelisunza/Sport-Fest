@@ -79,7 +79,6 @@
             <li class="">Kobe Buenaflor</li>
             <li class="">Chito Valdez</li>
             <li class="">Felipe Feranculio</li>
-            <li class="">Bien</li>
         </ul>
     </div>
     <div class= "btn-t">

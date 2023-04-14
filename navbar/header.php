@@ -28,9 +28,6 @@
           <a class="nav-link" href="committee.php">Committee</a>
         </li>
         <li class="nav-item" id="nav-btn">
-          <a class="nav-link" href="news.php">Games & Results</a>
-        </li>
-        <li class="nav-item" id="nav-btn">
           <a class="nav-link" href="teams.php">Teams</a>
         </li>
         <li class="nav-item" id="nav-btn">
@@ -38,6 +35,9 @@
         </li>
         <li class="nav-item" id="nav-btn">
           <a class="nav-link" href="schedule_result.php">Schedule</a>
+        </li>
+        <li class="nav-item" id="nav-btn">
+          <a class="nav-link" href="news.php">Games & Results</a>
         </li>
       </ul>
     </div>

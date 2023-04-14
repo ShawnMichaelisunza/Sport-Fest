@@ -5,21 +5,18 @@
 <div class="sd-1 container-fluid">
 
 <div class="s-r container">
-    <h1>PALARONG JRS 2023</h1>
     <br>
-    <h1 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">COMMITTEE</h1>
+    <h1 style="font-size: 50px; text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">COMMITTEE</h1>
     <br>
     <br>
     <div class="committee">
         <div>
-        <h2>Opening & Culmination</h2>
         <h3 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">FOOD</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
         <div class="p-contact">
-            <p>Coy Pasetes <br>
+            <p><b style="color: blue; font-size: 18px;">Coy Pasetes - POC</b> <br>
             Merly Manaloto <br>
             Mhabel Montenegro <br>
             Sharon Segovia <br>
@@ -33,10 +30,9 @@
         <br>
         <h3 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">LOGISTICS (JUNE 16)</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
 
         <div class="p-contact">
-            <p>Bobby Aguba <br>
+            <p><b style="color: blue; font-size: 18px;">Bobby Aguba - POC</b> <br>
             Jun Legada </p>
         </div>
         <div>
@@ -45,10 +41,9 @@
         <br>
         <h3 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">MEDIC</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
 
         <div class="p-contact">
-            <p>Eloisa - Wellness <br>
+            <p><b style="color: blue; font-size: 18px;">Eloisa - Wellness - POC</b> <br>
             Mandy Abaloyan </p>
         </div>
 
@@ -59,14 +54,12 @@
         <hr style="border: 1px solid white;">
         </div>
         <br>
-        <h2>Jersey, Drifit Shirt</h2>
         <h3 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">UNIFORM</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
         <div class="p-contact">
-            <p>Deric Molina <br>
+            <p><b style="color: blue; font-size: 18px;">Deric Molina - POC</b> <br>
             Gigy Tugas <br>
             Allan Hernandez <br>
             Atchel Tardaguila <br>
@@ -81,14 +74,12 @@
         <hr style="border: 1px solid white;">
         </div>
         <br>
-        <h2>Hosting, Sounds, Trophies</h2>
         <h3 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">PROGRAM/AWARDING</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
         <div class="p-contact">
-            <p>April Filart <br>
+            <p><b style="color: blue; font-size: 18px;">April Filart - POC</b> <br>
             Jewel Gregorio <br>
             Phepz Feranculio <br>
             Ray Oliver <br>
@@ -96,29 +87,7 @@
             Cheryl Velo <br>
             Amira Bongato <br>
             Marie Aquino <br>
-            Marie Aquino <br>
             Belle Ruales Ygay</p>
-        </div>
-
-        <!-- Games -->
-
-        <br>
-        <div>
-        <div>
-        <hr style="border: 1px solid white;">
-        </div>
-        <h3 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">GAMES</h3>
-        <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
-        </div>
-
-        <div class="p-contact">
-            <p>Atty. Ian Flores<br>
-            Bobby Aguba <br>
-            Elmer Serrano <br>
-            Paul Maaba <br>
-            Jose Simeon <br>
-            Gino Llarves</p>
         </div>
 
         <!-- Budget -->
@@ -130,13 +99,12 @@
         </div>
         <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: 'impact';">BUDGET</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
-        <div class="p-contact-1">
-            <p> Mercy Ngitngit<br>
-            Chen Alafriz <br>
-            Ed Simeon <br>
+        <div class="p-contact">
+            <p><b style="color: blue; font-size: 18px; text-shadow: 1px 1px 2px white;">Mercy Ngitngit - POC</b><br>
+            Gretchen Alafriz <br>
+            Ed Lamadrid <br>
             Gino Llarves</p>
         </div>
 
@@ -150,14 +118,13 @@
         </div>
         <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: 'impact';">INFORMATION</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
-        <div class="p-contact-1">
-            <p> Phen Zorwis<br>
+        <div class="p-contact">
+            <p><b style="color: blue; font-size: 18px; text-shadow: 1px 1px 2px white;"> Phen Zorwis - POC</b><br>
             Phepz Feranculio <br>
             Shawn Michael Isunza<br>
-            Jose Simeon <br>
+            Jose Mangiliman <br>
             Errol Sumile</p>
         </div>
 
@@ -171,11 +138,10 @@
         </div>
         <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: 'impact';">SOLICITATION</h3>
         <br>
-        <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
-        <div class="p-contact-1">
-            <p> Arni Sibal<br>
+        <div class="p-contact">
+            <p><b style="color: blue; font-size: 18px; text-shadow: 1px 1px 2px white;"> Arni Sibal - POC</b><br>
             Jonas Telebrico <br>
             Norman Astor </p>
         </div>
@@ -188,15 +154,13 @@
         <div>
         <hr style="border: 1px solid white;">
         </div>
-        <h2>Point System</h2>
-        <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: impact">AUDIT TEAM</h3>
+        <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: impact">Point System</h3>
         <br>
         <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
-        <div class="p-contact-1">
-            <p> Jun Legada<br>
-            Audit Staff </p>
+        <div class="p-contact">
+            <p><b style=" font-size: 20px; text-shadow: 1px 1px 2px white;">AUDIT TEAM</b></p>
         </div>
 
 
@@ -209,17 +173,36 @@
         </div>
         <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: impact">ZUMBA</h3>
         <br>
+        </div>
+
+        <div class="p-contact">
+            <p><b style="color: blue; font-size: 18px; text-shadow: 1px 1px 2px white;">Dra Tina Cajigal - POC</b><br>
+                Emy Oliva </p>
+        </div>
+
+        <!-- Games -->
+
+                <br>
+        <div>
+        <div>
+        <hr style="border: 1px solid white;">
+        </div>
+        <h3 style="text-align: center; color: white; text-shadow: 1px 1px 2px black; font-family: 'impact';">GAMES</h3>
+        <br>
         <h4 style=" color: BLUE; text-shadow: 1px 1px 2px white; font-family: 'impact';">POINT OF CONTACT</h4>
         </div>
 
-        <div class="p-contact-1">
-            <p> Dra Tina Cajigal<br>
-                Emy Oliva </p>
+        <div class="p-contact">
+            <p>Atty. Ian Flores - Badminton<br>
+            Bobby Aguba - Bowling<br>
+            Elmer Serrano - Basketball<br>
+            John Paul Cruz - Chess / Volleyball<br>
+            Phepz Feranculio - Darts / Billiard <br>
+            Gino Llarves - Swimming</p>
         </div>
-        <br>
-        <br>
-
     </div>
+    <br>
+    <br>
 
 </div>
 </div>

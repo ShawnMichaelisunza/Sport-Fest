@@ -235,22 +235,30 @@
     width: 35px;
 }
 
-/*  */
 
-.total-wins{
+.games-btn ul{
+    flex-wrap: wrap;
+    margin-top: 30px;
     display: flex;
     justify-content: space-around;
 }
-.w-img h5{
-    margin-top: 3px;
-    font-family: Impact;
+
+.games-btn li{
+    list-style-type: none;
+}
+.games-btn li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'impact';
     color: black;
     text-shadow: 1px 1px 2px white;
+    margin-left: 10px;
 }
-.w-img img{
-    width: 130px;
-    border-radius: 80px;
+.games-btn li a:hover{
+    color: green;
 }
+
+
 /* Frameworks */
 
 @keyframes flicker {
@@ -395,4 +403,6 @@
     .news-date h6{
         font-size: 15px;
     }
+
+
 }

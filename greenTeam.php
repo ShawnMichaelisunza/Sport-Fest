@@ -39,7 +39,7 @@
             <li class="">Melody Bascao</li>
             <li class="">Gene de Jesus</li>
             <li class="">Adora Hayag</li>
-            <li class="">Rodelio Gallarte</li>
+            <li class="">Francine Gallarte</li>
             <li class="">Bhong-Bhong</li>
             <li class="">Ryan belaro</li>
             <li class="">Ram Sta Rita</li>
@@ -82,6 +82,7 @@
             <li class="">Christopher Rapidoo</li>
             <li class="">Atchel Tardaguila</li>
             <li class="">Raniel (MWFL OFficer)</li>
+            <li class="">Bien Oropeza</li>
         </ul>
     </div>
     <div class= "btn-t">

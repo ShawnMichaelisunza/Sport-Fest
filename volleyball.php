@@ -7,47 +7,27 @@
   <h1>GAMES</h1>
   <div class="games-btn">
     <ul>
-    <div>
     <li><a href="news.php">Results</a></li>
-    </div>
-    <div>
     <li><a href="basketball.php">Basketball</a></li>
-    </div>
-    <div>
     <li><a href="volleyball.php">Volleyball</a></li>
-    </div>
-    <div>
     <li><a href="badminton.php">Badminton</a></li>
-    </div>
-    <div>
     <li><a href="billiard.php">Billiard</a></li>
-    </div>
-    <div>
     <li><a href="bowling.php">Bowling</a></li>
-    </div>
-    <div>
     <li><a href="chess.php">Chess</a></li>
-    </div>
-    <div>
     <li><a href="darts.php">Dart</a></li>
-    </div>
-    <div>
     <li><a href="swimming.php">Swimming</a></li>
-    </div>
     </ul>
-</div>
-  <br>
-  
-  <div class="results">
-    <div>
-      <h1 style="text-align: left; margin: 30px; 0">Results</h1>
-    </div>
   </div>
+  <br>
+      <br>
+         <!-- Volleyball -->
+        <h4>Volleyball</h4>
+        <br>
 
+        <h1 class="h1-1"> T B A </h1>
 
         <br>
         <br>
-    </div>
 </div>
 </div>
 
