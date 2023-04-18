@@ -6,7 +6,7 @@
 
 <div class="s-r container">
     <br>
-    <h1 style="font-size: 50px; text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">COMMITTEE</h1>
+    <h1 style="font-size: 40px; margin: 10px 0;">COMMITTEE</h1>
     <br>
     <br>
     <div class="committee">

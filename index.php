@@ -35,16 +35,19 @@
 <div id="carouselExampleRide" class="cas-1 carousel slide" data-bs-ride="true">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="image-palaro/event/event-13.jpg" class="d-block w-100" alt="...">
+      <img src="image-palaro/event/event-19.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="image-palaro/event/event-12.jpg" class="d-block w-100" alt="...">
+      <img src="image-palaro/event/event-18.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="image-palaro/event/event-14.jpg" class="d-block w-100" alt="...">
+      <img src="image-palaro/event/event-16.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="image-palaro/event/event-15.jpg" class="d-block w-100" alt="...">
+      <img src="image-palaro/event/event-26.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="image-palaro/event/event-20.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
@@ -57,27 +60,29 @@
   </button>
 </div>
   <div class="cas-2">
-    <div>
-    <img src="image-palaro/event/event-2.jpg" alt="">
-    <img src="image-palaro/event/event-10.jpg" alt="">
-    <img src="image-palaro/event/event-8.jpg" alt="">
-    <img src="image-palaro/event/event-5.jpg" alt="">
+    <div class="iframe-ds" >
+    <iframe width="49%" height="48%" src="https://www.youtube.com/embed/-PEJ-roxXvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="49%" height="48%" src="https://www.youtube.com/embed/ZelfT1XCsbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="49%" height="48%" src="https://www.youtube.com/embed/jNRif-m4Qb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="49%" height="48%" src="https://www.youtube.com/embed/5NKvUpNcdUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
+
+
   </div>
 </div>
 <!-- images -->
 <div class="container">
   <div class="img-1">
-    <div class="f-img">
-      <img src="image-palaro/event/event-5.jpg" alt="">
-      <img src="image-palaro/event/event-6.jpg" alt="">
-      <img src="image-palaro/event/event-7.jpg" alt="">
+  <div class="f-img">
+      <img src="image-palaro/event/event-16.jpg" alt="">
+      <img src="image-palaro/event/event-21.jpg" alt="">
+      <img src="image-palaro/event/event-26.jpg" alt="">
     </div>
-    <img class="img-3" src="image-palaro/event/event-9.jpg" alt="">
+    <img class="img-3" style="height: 30%; width: 80%; margin: 0 auto;" src="image-palaro/event/event-17.jpg" alt="">
     <div class="f-img">
-      <img src="image-palaro/event/event-8.jpg" alt="">
-      <img src="image-palaro/event/event-4.jpg" alt="">
-      <img src="image-palaro/event/event-3.jpg" alt="">
+      <img src="image-palaro/event/event-20.jpg" alt="">
+      <img src="image-palaro/event/event-24.jpg" alt="">
+      <img src="image-palaro/event/event-25.jpg" alt="">
     </div>
   </div>
 </div>

@@ -4,7 +4,7 @@
 
   <div class="news container-fluid" style="padding-top: 100px;">
   <div class="news-1 container">
-  <h1>GAMES</h1>
+  <h1 style="font-size: 40px; margin: 10px 0;">GAMES</h1>
   <div class="games-btn">
     <ul>
     <div>
@@ -44,244 +44,83 @@
     </div>
   </div>
   <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>FIRST GAME</b></h4>
-
-  <div class="results-img">
-
-    <!--  -->
-    <div>
-    </div>
-
-    <div>
-    </div>
-
-    <!--  -->
-    <div>
-    <img src="image-palaro/logo2.png" alt="">
-    </div>
-    <div>
-    <img src="image-palaro/logo3.png" alt="">
-    </div>
-    <div>
-    <img src="image-palaro/logo5.png" alt="">
-    </div>
-    <div>
-    <img src="image-palaro/logo9.png" alt="">
-    </div>
-  </div>
  
-  <!-- Basketball -->
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>BASKETBALL</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-  
-  <!-- VOLLEYBALL -->
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>VOLLEYBALL</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-
-  <!-- BILLIARD -->
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>BILLIARD</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-
-  <!-- BADMINTON -->
-
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>BADMINTON</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
+  <div class="results-games">
+    <table>
+      <tr>
+        <th></th>
+        <th><img src="image-palaro/logo2.png" alt=""></th>
+        <th><img src="image-palaro/logo3.png" alt=""></th>
+        <th><img src="image-palaro/logo5.png" alt=""></th>
+        <th><img src="image-palaro/logo9.png" alt=""></th>
+      </tr>
+      <!-- Basketball -->
+      <tr>
+        <td>Basketball</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Volleyball -->
+        <tr>
+        <td>VolleyBall</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Badminton -->
+      <tr>
+        <td>Badminton</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Billiard -->
+      <tr>
+        <td>Billiard</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Bowling -->
+      <tr>
+        <td>Bowling</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Chess -->
+      <tr>
+        <td>Chess</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Darts -->
+      <tr>
+        <td>Darts</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+      <!-- Swimming -->
+      <tr>
+        <td>Swimming</td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+        <td><span>0</span></td>
+      </tr>
+    </table>
   </div>
 
-  <!-- BOWLING -->
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>BOWLING</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-
-  <!-- CHESS -->
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>CHESS</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-
-  <!-- DARTS -->
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>DARTS</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-
-  <!-- SWIMMING -->
-
-  <div class="results-img">
-    <!--  -->
-    <div style="width: 15%;">
-      <h4>SWIMMING</h4>
-    </div>
-    <div>
-
-    </div>
-
-    <!--  -->
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 16%;">
-    <h4>0</h4>
-    </div>
-    <div style="width: 5%;">
-    <h4>0</h4>
-    </div>
-  </div>
-
-  
-
-        <br>
-        <br>
-    </div>
 </div>
 </div>
 

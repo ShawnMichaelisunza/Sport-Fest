@@ -31,9 +31,11 @@
         <br>
        </div>
         
-        <div class="score-1" style=" border-radius: 20px;">
+        <div class="score-1" style=" border-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div>
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+        <span>63pts</span>
+        &nbsp;
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
         </div>
@@ -43,15 +45,18 @@
         <div>
             <img src="image-palaro/logo9.png" alt="">
             <span>B FALCONS</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
-        
+        &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>
+        &nbsp;
+        <span>55pts</span>
         </div>
         </div>
 
         <br>
-        <div class="score-1" style=" border-radius: 20px;">
+        <div class="score-1" style=" border-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div>
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+        <span>38pts</span>
+        &nbsp;
+            <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp; 
             <img src="image-palaro/logo5.png" alt="">
             <span>Y JAGUARS</span>
         </div>
@@ -60,10 +65,62 @@
         </div>
         <div>
             <img src="image-palaro/logo3.png" alt="">
+            <span>G EAGLES</span>&nbsp;
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
+        &nbsp;
+        <span>60pts</span>
+        </div>
+        </div>
+        <br>
+        <br>
+        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>SECOND GAME</b></h4>
+        <br>
+        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 28 2023</b></h6>
+
+        <br>
+
+        <div class="score-1" style=" border-radius: 20px;">
+        <div>
+        <!-- <span>38pts</span> -->
+        &nbsp;
+            <!-- <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp;  -->
+            <img src="image-palaro/logo5.png" alt="">
+            <span>Y JAGUARS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo9.png" alt="">
+            <span>B FALCONS</span>&nbsp;
+        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
+        &nbsp;
+        <!-- <span>60pts</span> -->
+        </div>
+        </div>
+        <br>
+        
+        <div class="score-1" style=" border-radius: 20px;">
+        <div>
+        <!-- <span>63pts</span> -->
+        &nbsp;
+            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <img src="image-palaro/logo2.png" alt="">
+            <span>R DRAGONS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo3.png" alt="">
             <span>G EAGLES</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;
+        <!-- <span>55pts</span> -->
         </div>
         </div>
+
+
 
         <br>
         <br>

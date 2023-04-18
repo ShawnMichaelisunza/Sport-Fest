@@ -4,7 +4,7 @@
 <div class="sports container-fluid">
   <div class="nav-1">
     <div class="nav-1-1 container">
-    <h1 style="color: black;" id="sports">SPORTS</h1>
+    <h1 style="font-size: 40px; color: black;" id="sports">SPORTS</h1>
       <ul>
         <div>
         <li><a href="#basketball">BASKETBALL</a></li>

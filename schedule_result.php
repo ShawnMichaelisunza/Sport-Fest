@@ -6,7 +6,7 @@
 
 <div class="s-r container">
     <br>
-    <h1 style="text-align: center; color: black; text-shadow: 1px 1px 2px white; font-family: 'impact';">SCHEDULE</h1>
+    <h1 style="font-size: 40px; margin: 10px 0;">SCHEDULE</h1>
     <br>
     <div>
     <h2>March 31 - June 16 2023</h2>

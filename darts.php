@@ -24,7 +24,7 @@
 
         <!-- Darts -->
         <br>
-        <h4 style="color: white; text-shadow: 1px 1px 2px black;" >Darts</h4>
+        <h4 style="color: black; text-shadow: 1px 1px 2px white;" >Darts</h4>
 
         <div class="news-date">
         <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>5TH FLOOR CMI</b></h5>
@@ -50,9 +50,9 @@
         </div>
         </div>
 
-        <div class="score-1" >
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo5.png" alt="">
             <span>Arjay Quirante</span>
         </div>
@@ -66,7 +66,7 @@
         </div>
         </div>
 
-        <div class="score-1" >
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo2.png" alt="">
@@ -78,7 +78,7 @@
         <div style="width: 18%;">
             <img src="image-palaro/logo9.png" alt="">
             <span>Gerie Cantillo</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
@@ -94,7 +94,7 @@
         </div>
         <div style="width: 20%;">
             <img src="image-palaro/logo5.png" alt="">
-            <span>Mercy Ngitngit</span>&nbsp;&nbsp;
+            <span>Grace Dades</span>&nbsp;&nbsp;
         <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
         </div>
         </div>
@@ -147,7 +147,7 @@
         </div>
         <div style="width: 18%;">
             <img src="image-palaro/logo9.png" alt="">
-            <span>Jessica Regala</span>&nbsp;&nbsp;
+            <span>Stephanie Franco</span>&nbsp;&nbsp;
         <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
         </div>
         </div>

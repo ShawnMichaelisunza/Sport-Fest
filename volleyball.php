@@ -24,7 +24,102 @@
         <h4>Volleyball</h4>
         <br>
 
-        <h1 class="h1-1"> T B A </h1>
+        <div class="news-date">
+       <!-- <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>CENTRAL RECREATION</b></h5> -->
+        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>FIRST GAME</b></h4>
+        <br>
+        <!-- <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 14 2023</b></h6> -->
+        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>Women's</b></h6>
+        <br>
+       </div>
+        
+        <div class="score-1" style=" border-radius: 20px;">
+        <div>
+        <!-- <span>63pts</span> -->
+        &nbsp;
+            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <img src="image-palaro/logo2.png" alt="">
+            <span>R DRAGONS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo5.png" alt="">
+            <span>Y JAGUARS</span>&nbsp;&nbsp;
+        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;
+        <!-- <span>55pts</span> -->
+        </div>
+        </div>
+
+        <br>
+        <div class="score-1" style=" border-radius: 20px;">
+        <div>
+        <!-- <span>38pts</span> -->
+        &nbsp;
+            <!-- <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp;  -->
+            <img src="image-palaro/logo9.png" alt="">
+            <span>B FALCONS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo3.png" alt="">
+            <span>G EAGLES</span>&nbsp;
+        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
+        &nbsp;
+        <!-- <span>60pts</span> -->
+        </div>
+        </div>
+
+        <!-- Mens -->
+        <br>
+        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>Men's</b></h6>
+        <br>
+       
+        
+        <div class="score-1" style=" border-radius: 20px;">
+        <div>
+        <!-- <span>63pts</span> -->
+        &nbsp;
+            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <img src="image-palaro/logo2.png" alt="">
+            <span>R DRAGONS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo3.png" alt="">
+            <span>G EAGLES</span>&nbsp;&nbsp;
+        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;
+        <!-- <span>55pts</span> -->
+        </div>
+        </div>
+
+        <br>
+        <div class="score-1" style=" border-radius: 20px;">
+        <div>
+        <!-- <span>38pts</span> -->
+        &nbsp;
+            <!-- <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp;  -->
+            <img src="image-palaro/logo5.png" alt="">
+            <span>Y JAGUARS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo9.png" alt="">
+            <span>B FALCONS</span>&nbsp;
+        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
+        &nbsp;
+        <!-- <span>60pts</span> -->
+        </div>
+        </div>
 
         <br>
         <br>
