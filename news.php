@@ -29,7 +29,7 @@
     <li><a href="chess.php">Chess</a></li>
     </div>
     <div>
-    <li><a href="darts.php">Dart</a></li>
+    <li><a href="darts.php">Darts</a></li>
     </div>
     <div>
     <li><a href="swimming.php">Swimming</a></li>
@@ -40,7 +40,7 @@
   
   <div class="results">
     <div>
-      <h1 style="text-align: left; margin: 30px; 0">Results</h1>
+      <h2 style="text-align: center; margin: 30px; 0">Results</h2>
     </div>
   </div>
   <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>FIRST GAME</b></h4>

@@ -4,7 +4,7 @@
 
   <div class="news container-fluid" style="padding-top: 100px;">
   <div class="news-1 container">
-  <h1>GAMES</h1>
+  <h1 style="font-size: 40px; margin: 10px 0;">GAMES</h1>
     <div class="games-btn">
     <ul>
     <li><a href="news.php">Results</a></li>
@@ -14,7 +14,7 @@
     <li><a href="billiard.php">Billiard</a></li>
     <li><a href="bowling.php">Bowling</a></li>
     <li><a href="chess.php">Chess</a></li>
-    <li><a href="darts.php">Dart</a></li>
+    <li><a href="darts.php">Darts</a></li>
     <li><a href="swimming.php">Swimming</a></li>
     </ul>
     </div>

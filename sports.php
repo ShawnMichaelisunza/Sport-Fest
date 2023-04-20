@@ -294,7 +294,7 @@
           <li>05. Paul Maaba </li>
           <li>06. JP Cruz</li>
           <li>07. Kathleen Jacinto</li>
-          <li>08. Rolando Saberola</li>
+          <li>08. Gigy Tugas</li>
           <li>09. Mayet Taylan</li>
           <li>10. Wien Villando</li>
         </ul>
@@ -344,7 +344,7 @@
           <li>07. Arni Sibal</li>
           <li>08. Belle Ygay</li>
           <li>09. Janica Enriquez</li>
-          <li>10. Beth Gregorio</li>
+          <li>10. - </li>
         </ul>
         </div>
     </div>

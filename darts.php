@@ -4,7 +4,7 @@
 
   <div class="news container-fluid" style="padding-top: 100px;">
   <div class="news-1 container">
-  <h1>GAMES</h1>
+  <h1 style="font-size: 40px; margin: 10px 0;">GAMES</h1>
   <div class="games-btn">
     <ul>
     <li><a href="news.php">Results</a></li>
@@ -14,7 +14,7 @@
     <li><a href="billiard.php">Billiard</a></li>
     <li><a href="bowling.php">Bowling</a></li>
     <li><a href="chess.php">Chess</a></li>
-    <li><a href="darts.php">Dart</a></li>
+    <li><a href="darts.php">Darts</a></li>
     <li><a href="swimming.php">Swimming</a></li>
     </ul>
     </div>
@@ -34,9 +34,9 @@
         <br>
         </div>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>Elmer Serrano</span>
         </div>
@@ -83,9 +83,9 @@
         </div>
 
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>Judith Sayong</span>
         </div>
@@ -104,9 +104,9 @@
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 19 2023</b></h6>
         <br>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo3.png" alt="">
             <span>Jhovin Dela Cruz</span>
         </div>
@@ -120,19 +120,19 @@
         </div>
         </div>
 
-        <div class="score-1" >
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo2.png" alt="">
-            <span>Ryan Paglinawan</span>
+            <span>Darwin Labadan</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
         <div style="width: 18%;">
             <img src="image-palaro/logo5.png" alt="">
-            <span>Gino Llarves</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+            <span>Chito Valdez</span>&nbsp;&nbsp;
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
@@ -174,9 +174,9 @@
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 20 2023</b></h6>
         <br>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>Michelle Sabalo</span>
         </div>

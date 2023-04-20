@@ -198,6 +198,7 @@
 
 /* News */
 .news{
+    
         background: linear-gradient(rgb(255, 255, 0),rgb(255, 0, 0));
 }
 .news-1{
@@ -240,15 +241,17 @@
     width: 35px;
 }
 
+/*  */
 
 .games-btn ul{
     flex-wrap: wrap;
     margin-top: 30px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .games-btn li{
+    margin: 0 15px;
     list-style-type: none;
 }
 .games-btn li a{
@@ -447,7 +450,10 @@
     .results-games table td{
         font-size: 14px;
     }
+    .games-btn ul{
+        justify-content: left;
+    }
     .games-btn li{
-        margin: 0 2px ;
+        margin: 0 0 0 10px ;
     }
 }
