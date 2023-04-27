@@ -54,6 +54,27 @@
 
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 27 2023</b></h6>
         <br>
+
+        <div class="score-1" style=" border-radius: 20px; ">
+        <div>
+            <!-- <span>730pts</span> -->
+            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            &nbsp;
+            <img src="image-palaro/logo2.png" alt="">
+            <span>R DRAGONS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div>
+            <img src="image-palaro/logo5.png" alt="">
+            <span>Y JAGUARS</span>&nbsp;&nbsp;
+        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+             &nbsp;
+             <!-- <span>784pts</span> -->
+        </div>
+        </div>
+        <br>
          
         <div class="score-1" style=" border-radius: 20px; ">
         <div>

@@ -74,15 +74,37 @@
 <div class="container">
   <div class="img-1">
   <div class="f-img">
-      <img src="image-palaro/event/event-16.jpg" alt="">
-      <img src="image-palaro/event/event-21.jpg" alt="">
-      <img src="image-palaro/event/event-26.jpg" alt="">
+      <a href="image-palaro/event/event-16.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-16.jpg" alt="" style="width: 100%;">
+      </a>
+      <a href="image-palaro/event/event-21.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-21.jpg" alt="" style="width: 100%; ">
+      </a>
+      <a href="image-palaro/event/event-26.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-26.jpg" alt="" style="width: 100%; ">
+      </a>
     </div>
-    <img class="img-3" style="height: 30%; width: 80%; margin: 0 auto;" src="image-palaro/event/event-17.jpg" alt="">
     <div class="f-img">
-      <img src="image-palaro/event/event-20.jpg" alt="">
-      <img src="image-palaro/event/event-24.jpg" alt="">
-      <img src="image-palaro/event/event-25.jpg" alt="">
+      <a href="image-palaro/event/event-27.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-27.jpg" alt="" style="width: 100%;">
+      </a>
+      <a href="image-palaro/event/event-17.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-17.jpg" alt="" style="width: 100%; ">
+      </a>
+      <a href="image-palaro/event/event-18.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-18.jpg" alt="" style="width: 100%; ">
+      </a>
+    </div>
+    <div class="f-img" style="margin-bottom: 100px;">
+    <a href="image-palaro/event/event-20.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-20.jpg" alt="" style="width: 100%; ">
+      </a>
+      <a href="image-palaro/event/event-24.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-24.jpg" alt="" style="width: 100%; ">
+      </a>
+      <a href="image-palaro/event/event-25.jpg" style="width: 29%; margin: 0 5px;">
+      <img src="image-palaro/event/event-25.jpg" alt="" style="width: 100%; ">
+      </a>
     </div>
   </div>
 </div>

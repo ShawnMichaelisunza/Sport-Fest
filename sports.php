@@ -128,13 +128,13 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo2.png" alt="...">
         <ul class="b1-ball">
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li>01. John Paul Cruz </li>
+          <li>02. Deric Molina </li>
+          <li>03. Darwin Labadan </li>
+          <li>04. Jayson Corpuz </li>
+          <li>05. Angelo Malicay </li>
+          <li>06. Rodel Macabenta </li>
+          <li>07. Paul Maaba </li>
           <li> - </li>
           <li> - </li>
           <li> - </li>
@@ -145,12 +145,12 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b1-ball">
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li>01. Atchel Tardaguila </li>
+          <li>02. Janice Repayo </li>
+          <li>03. Ryan </li>
+          <li>04. Rodel Esquerra </li>
+          <li>05. Ram Sta Rita</li>
+          <li>06. Tryon Mateo</li>
           <li> - </li>
           <li> - </li>
           <li> - </li>
@@ -371,8 +371,8 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li> - </li>
-          <li> - </li>
+          <li>01. Bustillo </li>
+          <li>02. Ryan </li>
         </ul>
         </div>
 
@@ -420,9 +420,9 @@
         <ul class="b2-ball">
           <li>01. Jhovin Dela Cruz</li>
           <li>02. Cris Balde</li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li>03. Christopher Souza</li>
+          <li>04. Ryan Belaro </li>
+          <li>05. Roy Bayarcal </li>
         </ul>
         </div>
 
@@ -595,10 +595,15 @@
         <div class="lg-plrs">
         <img src="image-palaro/logo3.png"  alt="...">
         <ul class="b2-ball">
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li>01. Adora </li>
+          <li>02. Marie Aquino </li>
+          <li>03. April </li>
+          <li>04. Doc Dra Tina Cajigal</li>
+          <li>05. Janette Estomata</li>
+          <li>06. Gene De Jesus</li>
+          <li>07. Norms(as per Ma'am April)</li>
+          <li>08. Anna Domingo</li>
+
         </ul>
         </div>
 

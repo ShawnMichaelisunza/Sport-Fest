@@ -136,26 +136,26 @@
         </div>
         </div>
 
-        <div class="score-1" >
-        <div style="width: 18%;">
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;" >
+        <div style="width: 20%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo3.png" alt="">
-            <span>Janette Istomata</span>
+            <span>Janette Estomata</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 18%;">
+        <div style="width: 20%;">
             <img src="image-palaro/logo9.png" alt="">
             <span>Stephanie Franco</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;  background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>Eugine Dupitas</span>
         </div>
@@ -190,9 +190,9 @@
         </div>
         </div>
 
-        <div class="score-1" >
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo3.png" alt="">
             <span>Chen Alafriz</span>
         </div>
@@ -206,7 +206,7 @@
         </div>
         </div>
 
-        <div class="score-1" >
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo2.png" alt="">
@@ -218,7 +218,7 @@
         <div style="width: 18%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>Albert Perez</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
@@ -244,9 +244,9 @@
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 25 2023</b></h6>
         <br>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo9.png" alt="">
             <span>July Arellano</span>
         </div>
@@ -260,8 +260,8 @@
         </div>
         </div>
 
-        <div class="score-1" >
-        <div style="width: 18%;">
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 20%;" >
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo2.png" alt="">
             <span>Rogie Tarcena</span>
@@ -269,18 +269,21 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 18%;">
+        <div style="width: 20%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>Jose Mangiliman</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1" >
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
         <div style="width: 18%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
-            <img src="image-palaro/logo3.png" alt="">
-            <span>Anna Domingo</span>
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
+            <img src="image-palaro/logo2.png" alt="">
+            <span> Jalyn Pangasian </span>
+            <br>
+            <img src="image-palaro/logo9.png" alt="">
+            <span>Jesica Regala</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
@@ -293,19 +296,22 @@
         </div>
 
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: darkgrey; opacity: 0.8">
         <div style="width: 20%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo2.png" alt="">
-            <span>Amira Luna Bongato / Wien Vilando</span>
+            <span> Wien Vilando </span>
+            <br>
+            <img src="image-palaro/logo3.png" alt="">
+            <span>Anna Domingo</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
         <div style="width: 20%;">
             <img src="image-palaro/logo9.png" alt="">
-            <span>Stephanie Franco</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+            <span>Nelma Felipe</span>&nbsp;&nbsp;
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 

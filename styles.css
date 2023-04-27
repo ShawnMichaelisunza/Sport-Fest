@@ -140,7 +140,6 @@
     justify-content: center;
 }
 .f-img{
-    margin: 30px 0 ;
     display: flex;
     width: 100%;
     flex-direction: row;
