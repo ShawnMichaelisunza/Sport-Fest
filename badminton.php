@@ -23,7 +23,7 @@
         <br>
         <br>
         
-        <h4>Badminton</h4>>
+        <h4>Badminton</h4>
         <div class="news-date">
         <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b> CENTRAL RECREATION</b></h5>
         <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>COURT 1</b></h4>

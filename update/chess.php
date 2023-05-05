@@ -36,7 +36,7 @@
         </div>
         <br>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; ">
         <div style="width: 20%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo/chess.png" alt="">
@@ -48,7 +48,7 @@
         <div style="width: 20%;">
         <img src="image-palaro/logo/chess.png" alt="">
             <span>Ian</span>&nbsp;&nbsp;
-        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
+        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
         </div>
         </div>
 
@@ -70,9 +70,9 @@
         </div>
 
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
         <div style="width: 20%;">
-            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
+            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo/chess.png" alt="">
             <span>Francine</span>
         </div>
@@ -81,7 +81,7 @@
         </div>
         <div style="width: 20%;">
         <img src="image-palaro/logo/chess.png" alt="">
-            <span>Kaye</span>&nbsp;&nbsp;
+            <span>Kay</span>&nbsp;&nbsp;
         <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
         </div>
         </div>
