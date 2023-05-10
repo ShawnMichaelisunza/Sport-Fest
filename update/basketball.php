@@ -28,7 +28,7 @@
        <br>
         <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>THIRD GAME</b></h4>
         <br>
-        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 28 2023</b></h6>
+        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>May 5 2023</b></h6>
         <br>
        </div>
 
