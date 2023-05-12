@@ -29,15 +29,15 @@
 
         <div class="news-date">
         <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b> CENTRAL RECREATION</b></h5>
-        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>2nd ROUND</b></h4>
         <br>
         <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>COURT 1</b></h4>
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>May 3 2023</b></h6>
         <br>
         </div>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
-        <div style="width: 15%;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>MX</span> &nbsp;
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo9.png" alt="">
             <span>B FALCONS</span>
@@ -45,31 +45,33 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>Y JAGUARS</span>
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1"  >
-        <div style="width: 15%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+        <div class="score-1"  style="background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 19%;">
+            <span>WB</span> &nbsp;
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo9.png" alt="">
             <span>B FALCONS</span>
         <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
         </div>
         </div>
 
-        <div class="score-1" >
-        <div style="width: 15%;">
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>WA</span> &nbsp;
             <!-- <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp;  -->
             <img src="image-palaro/logo5.png" alt="">
             <span>Y JAGUARS</span>
@@ -77,31 +79,33 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
-        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1">
-        <div style="width: 15%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 19%;">
+            <span>MB</span> &nbsp;
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo9.png" alt="">
             <span>B FALCONS</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
         <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
         </div>
         </div>
 
-        <div class="score-1" >
-        <div style="width: 15%;">
+        <div class="score-1" style="background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>MA</span> &nbsp;
             <!-- <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp;  -->
             <img src="image-palaro/logo3.png" alt="">
             <span>G EAGLES</span>
@@ -109,27 +113,28 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>Y JAGUARS</span>
-        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
-        <div style="width: 15%;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>MA</span> &nbsp;
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
-            <img src="image-palaro/logo5.png" alt="">
-            <span>Y JAGUARS</span>
+            <img src="image-palaro/logo2.png" alt="">
+            <span>R DRAGONS</span>
             
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
-            <img src="image-palaro/logo2.png" alt="">
-            <span>R DRAGONS</span>
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        <div style="width: 18%;">
+            <img src="image-palaro/logo5.png" alt="">
+            <span>Y JAGUARS</span>
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
         <br>
@@ -140,8 +145,9 @@
         <br>
         </div>
         <br>
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; ">
-        <div style="width: 15%;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>MB</span> &nbsp;
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
@@ -149,47 +155,50 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo3.png" alt="">
             <span>G EAGLES</span>
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1">
-        <div style="width: 15%;">
+        <div class="score-1" style=" background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>MX</span> &nbsp;
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <img src="image-palaro/logo2.png" alt="">
+            <span>R DRAGONS</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div style="width: 18%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>Y JAGUARS</span>
-        </div>
-        <div>
-            <h6 style="font-family: 'impact';">VS</h6>
-        </div>
-        <div style="width: 15%;">
-            <img src="image-palaro/logo2.png" alt="">
-            <span>R DRAGONS</span>
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1" >
-        <div style="width: 15%;">
-            <!-- <span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span>&nbsp;  -->
+        <div class="score-1" style=" background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 19%;">
+            <span>MX</span> &nbsp;
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo3.png" alt="">
             <span>G EAGLES</span>
         <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
         </div>
         </div>
 
-        <div class="score-1"  >
-        <div style="width: 15%;">
+        <div class="score-1" style=" background-color: darkgrey; opacity: 0.8;" >
+        <div style="width: 18%;">
+            <span>WB</span> &nbsp;
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo5.png" alt="">
             <span>Y JAGUARS</span>
@@ -197,15 +206,16 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo3.png" alt="">
             <span>G EAGLES</span>
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
 
-        <div class="score-1"  style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
-        <div style="width: 15%;">
+        <div class="score-1"  style=" background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>WA</span> &nbsp;
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo3.png" alt="">
             <span>G EAGLES</span>
@@ -213,10 +223,27 @@
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
         </div>
-        <div style="width: 15%;">
+        <div style="width: 18%;">
             <img src="image-palaro/logo9.png" alt="">
             <span>B FALCONS</span>
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;"></span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
+        </div>
+        </div>
+
+        <div class="score-1"  style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;  background-color: darkgrey; opacity: 0.8;">
+        <div style="width: 18%;">
+            <span>MB</span> &nbsp;
+            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <img src="image-palaro/logo3.png" alt="">
+            <span>G EAGLES</span>
+        </div>
+        <div>
+            <h6 style="font-family: 'impact';">VS</h6>
+        </div>
+        <div style="width: 18%;">
+            <img src="image-palaro/logo9.png" alt="">
+            <span>B FALCONS</span>
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
         <br>
@@ -227,7 +254,6 @@
 
         
         <!--  -->
-        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>1st ROUND</b></h4>
         <br>
         <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>COURT 1</b></h4>
         <br>

@@ -490,6 +490,12 @@
     animation: flicker 2s ease-in-out infinite;
  }
 
+
+ .total-td td span{
+    font-size: 17px;
+}
+
+
  /* media */
  @media(max-width: 800px){
     .navbar-brand{
@@ -626,4 +632,5 @@
         font-size: 10px;
         flex: 100%;
     }
+    
  }

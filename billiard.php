@@ -29,7 +29,7 @@
         <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>EverGotestco Commonwealth</b></h5>
         <h4 style="color: red; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>Semi Finals</b></h4>
         <br>
-        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>June 2 2023</b></h6>
+        <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>May 11 2023</b></h6>
         <br>
         </div>
 

@@ -55,10 +55,10 @@
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 27 2023</b></h6>
         <br>
 
-        <div class="score-1" style=" border-radius: 20px; ">
+        <div class="score-1" style=" border-radius: 20px;  background-color: darkgrey; opacity: 0.8;">
         <div>
-            <!-- <span>730pts</span> -->
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span>1595pts</span>
             &nbsp;
             <img src="image-palaro/logo2.png" alt="">
             <span>R DRAGONS</span>
@@ -71,14 +71,14 @@
             <span>Y JAGUARS</span>&nbsp;&nbsp;
         <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
              &nbsp;
-             <!-- <span>784pts</span> -->
+             <span>1677pts</span>
         </div>
         </div>
         <br>
          
-        <div class="score-1" style=" border-radius: 20px; ">
+        <div class="score-1" style=" border-radius: 20px;  background-color: darkgrey; opacity: 0.8;">
         <div>
-            <!-- <span>730pts</span> -->
+            <span>1388pts</span>
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             &nbsp;
             <img src="image-palaro/logo9.png" alt="">
@@ -92,7 +92,7 @@
             <span>G EAGLES</span>&nbsp;&nbsp;
         <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
              &nbsp;
-             <!-- <span>784pts</span> -->
+             <span>1331pts</span>
         </div>
         </div>
 

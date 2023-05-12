@@ -26,7 +26,7 @@
         <div class="news-date">
        <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>Tandang Sora st.cor.Commonwealth Ave.Q.city</b></h5>
        <br>
-        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>THIRD GAME</b></h4>
+
         <br>
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>May 5 2023</b></h6>
         <br>
@@ -34,7 +34,7 @@
 
         <br>
 
-        <div class="score-1" style=" border-radius: 20px; ">
+        <div class="score-1" style=" border-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div>
         <!-- <span>38pts</span> -->
         &nbsp;
@@ -48,7 +48,7 @@
         <div>
             <img src="image-palaro/logo9.png" alt="">
             <span>B FALCONS</span>&nbsp;
-        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         &nbsp;
         <!-- <span>60pts</span> -->
         </div>
@@ -78,7 +78,7 @@
         <br>
         <div class="news-date">
        <h5 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>CENTRAL RECREATION</b></h5>
-        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>SECOND GAME</b></h4>
+
         <br>
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 28 2023</b></h6>
         <br>
@@ -129,7 +129,6 @@
         <br>
 
        <div class="news-date">
-        <h4 style="color: blue; text-align: center; font-family: 'arial'; font-weight: bolder;"><b>FIRST GAME</b></h4>
         <br>
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>April 14 2023</b></h6>
         <br>

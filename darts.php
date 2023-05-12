@@ -34,9 +34,9 @@
         <br>
         </div>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo9.png" alt="">
             <span>Gerie Cantillo</span>
         </div>
@@ -50,9 +50,9 @@
         </div>
         </div>
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;  background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>Elmer Serrano</span>
         </div>
@@ -69,11 +69,11 @@
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>May 9 2023</b></h6>
         <br>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo9.png" alt="">
-            <span>Stephanie Franco</span>
+            <span>Belle Ruales</span>
         </div>
         <div>
             <h6 style="font-family: 'impact';">VS</h6>
@@ -85,7 +85,7 @@
         </div>
         </div>
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo3.png" alt="">
@@ -97,7 +97,7 @@
         <div style="width: 20%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>  Chito Valdez</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
         <br>
@@ -105,9 +105,9 @@
         <h6 style="color: blue; font-family: 'arial'; font-weight: bolder; text-shadow: 1px 1px 3px white;"><b>May 10 2023</b></h6>
         <br>
 
-        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px;">
+        <div class="score-1" style=" border-top-left-radius: 20px; border-top-right-radius: 20px; background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
-            <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
+            <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp; 
             <img src="image-palaro/logo2.png" alt="">
             <span>Michelle Sabalo</span>
         </div>
@@ -121,7 +121,7 @@
         </div>
         </div>
 
-        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <div class="score-1" style=" border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;  background-color: darkgrey; opacity: 0.8;">
         <div style="width: 20%;">
             <!-- <span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>&nbsp;  -->
             <img src="image-palaro/logo5.png" alt="">
@@ -133,7 +133,7 @@
         <div style="width: 20%;">
             <img src="image-palaro/logo5.png" alt="">
             <span>Phepz Feranculio</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span>
         </div>
         </div>
         <br>
@@ -153,7 +153,7 @@
         <div style="width: 20%;">
             <img src="image-palaro/logo9.png" alt="">
             <span> Nelma Felipe</span>&nbsp;&nbsp;
-        <!-- &nbsp;<span style="color: blue; text-shadow: 1px 1px 2px black; font-family: arial;">L</span> -->
+        <!-- &nbsp;<span style="color: red; text-shadow: 1px 1px 2px black; font-family: arial;">W</span> -->
         </div>
         </div>
 

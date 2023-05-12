@@ -285,6 +285,9 @@
 .results-games img{
     width: 80px;
 }
+.total-td td{
+    font-size: 17px;
+}
 
 /* Frameworks */
 
@@ -350,6 +353,7 @@
     .b2-ball{
         border-left: 1px solid white;
     }
+
     /* Schedule */
     .s-r{
         padding-top: 90px;
@@ -444,16 +448,21 @@
     .news-date h6{
         font-size: 15px;
     }
+    .results-games th span{
+        font-size: 1px;
+    }
+    
+
     .results-games img{
         width: 40px;
-    }
-    .results-games table td{
-        font-size: 14px;
     }
     .games-btn ul{
         justify-content: left;
     }
     .games-btn li{
         margin: 0 0 0 10px ;
+    }
+    .total-td td{
+        font-size: 10px;
     }
 }
